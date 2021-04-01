@@ -17,7 +17,7 @@ WPS获取Cookie = type=http-request,pattern=^https:\/\/zt.wps.cn\/2018\/docer_ch
 
 海底捞获取Cookie = type=http-request,pattern=^https:\/\/activity-1\.m\.duiba\.com\.cn\/signactivity\/doSign$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/haidilao/hdl.js
 
-招行信用卡公众号获取Cookie = type=http-request,pattern=^https://weclub\.ccc\.cmbchina.com/SCRMCustomActivityFront/checkin/request/get-home-data\.json\?activityCode=checkin,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js
+招行信用卡公众号获取Cookie = type=http-request,pattern=https://weclub\.ccc\.cmbchina.com/SCRMCustomActivityFront/checkin/request/get-home-data\.json\?activityCode=checkin,script-path=https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task/cmbchina.js
 
 [MITM]
 hostname = api.m.jd.com, h5.ele.me, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.com, zt.wps.cn, activity-1.m.duiba.com.cn, weclub.ccc.cmbchina.com
