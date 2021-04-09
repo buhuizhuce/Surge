@@ -22,4 +22,4 @@
 
 
 [MITM]
-hostname = %APPEND% zhiyou.smzdm.com， homepage-api.smzdm.com,haojia-api.smzdm.com,article-api.smzdm.com,haojia.m.smzdm.com,app-api.smzdm.com,s-api.smzdm.com
+hostname = %APPEND% homepage-api.smzdm.com,haojia-api.smzdm.com,article-api.smzdm.com,haojia.m.smzdm.com,app-api.smzdm.com,s-api.smzdm.com,zhiyou.smzdm.com
