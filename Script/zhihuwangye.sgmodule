@@ -1,9 +1,9 @@
-#!name=知乎网页优化
-#!desc=知乎网页显示优化
+#!name=知乎&百度网页优化
+#!desc=知乎网页显示优化及百度防跳转
 #!system=ios
 
 [MITM]
-hostname =  %APPEND% www.zhihu.com, zhuanlan.zhihu.com,link.zhihu.com,oia.zhihu.com
+hostname =  %APPEND% www.zhihu.com, zhuanlan.zhihu.com,link.zhihu.com,oia.zhihu.com,*.baidu.com
 
 [URL Rewrite]
 # 知乎网页去广告&推荐列表
@@ -15,10 +15,12 @@ https://zhuanlan\.zhihu\.com/api/articles/\d+/recommendation - reject
 ^https?://link\.zhihu\.com/\?target=https?%3A//(.*) https://$1 302
 ^https?://oia\.zhihu\.com https://zhuanlan.zhihu.com 302
 
+
 [Header Rewrite]
-# 知乎（部分替换为手机百度 Quark 的 User-Agent）
-# 可以看楼层回复 1-2 条
+
 "^https:\/\/www\.zhihu\.com\/ " header-replace User-Agent "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1 Quark/604.1 T7/10.7 SearchCraft/2.7.7 (Baidu; P1 9.0.0)"
+# 百度防跳转
+^https?:\/\/.*\.baidu\.com header-replace User-Agent "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/16C50 Quark/604.1 T7/10.3 SearchCraft/2.6.3 (Baidu; P1 8.0.0)"
 
 [Script]
 知乎直接看  = type=http-response,pattern=https://(www\.zhihu\.com/question|zhuanlan\.zhihu\.com/p)/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/mieqq/mieqq/master/zhihu.js
