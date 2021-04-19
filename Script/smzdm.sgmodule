@@ -2,8 +2,6 @@
 #!desc=什么值得买每日自动签到、每日任务及去广告
 #!system=ios
 
-
-
 [URL Rewrite]
 ^https?:\/\/haojia\.m\.smzdm\.com\/detail_modul\/banner - reject
 ^https?:\/\/api\.smzdm\.com\/v\d\/util\/(banner|loading) - reject
