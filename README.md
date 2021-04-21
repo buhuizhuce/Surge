@@ -1,2 +1,2 @@
 # Surge
-自用Surge脚本
+自用Surge配置
