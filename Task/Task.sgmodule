@@ -10,7 +10,6 @@ cron "7 0,23 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/
 cron "8 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js,tag=网易云音乐
 cron "9 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js, tag=智行火车
 cron "10 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.js, tag=WPS
-cron "59 23 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_reward.js, enabled=true, tag=滴滴出行
 cron "55 23 ? * THU" script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=EPIC
 
 
