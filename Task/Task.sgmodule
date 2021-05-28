@@ -2,9 +2,6 @@
 #!desc=自用Tasks模块配置
 
 [Script]
-cron "3 0 * * *" ,timeout=30, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到
-cron "4 0 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_lotteryMachine.js, tag=京东抽奖机
-cron "5 0 * * *" script-path=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/jd/jd_rankingList.js, tag=京东排行榜
 cron "6 0 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js,tag=吾爱破解
 cron "7 0,23 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林
 cron "8 0 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js,tag=网易云音乐
