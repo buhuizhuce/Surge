@@ -1,0 +1,5 @@
+#!name=WhiteList
+#!desc=去广告白名单
+
+[Rule]
+DOMAIN,boxer.baidu.com,DIRECT
