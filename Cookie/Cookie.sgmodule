@@ -3,16 +3,12 @@
 
 [Script]
 京东Cookie = type=http-request,pattern=https:\/\/api\.m\.jd\.com\/client\.action.*functionId=signBean,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
-京喜token = type=http-request,pattern=^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
-京喜token = type=http-request,pattern=^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
-京喜token = type=http-request,pattern=^https\:\/\/m\.jingxi\.com\/jxcfd\/consume\/CashOut,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_tokens.js
 滴滴出行Cookie = type=http-request,pattern=^https:\/\/as\.xiaojukeji\.com\/ep\/as\/toggles\?,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js
 吾爱Cookie = type=http-request,pattern=https:\/\/www\.52pojie\.cn\/home\.php\?,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js
 欧可林Cookie = type=http-request,pattern=^https:\/\/mall\.oclean\.com\/API\/VshopProcess\.ashx$,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js
 网易云音乐Cookie = type=http-request,pattern=^https:\/\/music.163.com\/weapi\/user\/level,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.cookie.js,requires-body=true
 智行火车票Cookie = type=http-request,pattern=^https:\/\/m\.ctrip\.com/restapi/soa2/14593/json/attendanceDay?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.cookie.js, requires-body=true
-WPS Cookie = type=http-request,pattern=^https:\/\/zt.wps.cn\/2018\/docer_check_in\/api\/act_list,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/wps/wps.cookie.js
 什么值得买_获取cookie = script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js,type=http-request,requires-body=true,pattern=^https?:\/\/zhiyou\.smzdm\.com\/user$
 
 [MITM]
-hostname = api.m.jd.com,wq.jd.com, m.jingxi.com, h5.ele.me, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.com, zt.wps.cn, activity-1.m.duiba.com.cn, %APPEND% zhiyou.smzdm.com
+hostname = api.m.jd.com,wq.jd.co, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.co, activity-1.m.duiba.com.cn, %APPEND% zhiyou.smzdm.com
