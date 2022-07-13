@@ -2,4 +2,20 @@
 #!desc=去广告白名单
 
 [Rule]
+
+
 DOMAIN,boxer.baidu.com,DIRECT
+
+
+
+# > 取消<feilun.lis>中屏蔽苹果系统更新
+DOMAIN, ns.itunes.apple.com,DIRECT
+DOMAIN, appldnld.apple.com,DIRECT
+DOMAIN, mesu.apple.com,DIRECT
+DOMAIN, xp.apple.com,DIRECT
+DOMAIN, gdmf.apple.com,DIRECT
+DOMAIN-SUFFIX,iadsdk.apple.com,DIRECT
+DOMAIN-SUFFIX,ads.internal.unity3d.com,DIRECT
+DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,DIRECT
+DOMAIN-SUFFIX,unityads.unity3d.com,DIRECT
+
