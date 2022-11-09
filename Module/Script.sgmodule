@@ -15,4 +15,4 @@ http-response ^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RC
 Spark = type=http-response,pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RCAnonymousID%)?(\w)*$),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/SparkMail.js,script-update-interval=0
 
 [MITM]
-hostname = ios.prod.ftl.netflix.com, mp.weixin.qq.com, weixin110.qq.com, pan.baidu.com, ap*.intsig.net, vsco.co,%APPEND% api.revenuecat.com
+hostname = ios.prod.ftl.netflix.com, mp.weixin.qq.com, weixin110.qq.com, pan.baidu.com, ap*.intsig.net, vsco.co, %APPEND% api.revenuecat.com
