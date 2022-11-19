@@ -1,14 +1,14 @@
 #!name=WhiteList
-#!desc=去广告白名单
+#!desc=白名单
 
 [Rule]
 
 
 DOMAIN,boxer.baidu.com,DIRECT
+DOMAIN,us.embyx.one,DIRECT
 
 
-
-# > 取消<feilun.lis>中屏蔽苹果系统更新
+# > 取消<feilun.list>中屏蔽苹果系统更新
 DOMAIN, ns.itunes.apple.com,DIRECT
 DOMAIN, appldnld.apple.com,DIRECT
 DOMAIN, mesu.apple.com,DIRECT
