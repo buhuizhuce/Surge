@@ -1,38 +1,38 @@
-#!name=EmbyRule
+#!name=🎞 EmbyRule
 #!desc=自用Emby服代理规则
 
 [Rule]
 # > 终点站
-DOMAIN,pub1.emby.wtf,Emby
-DOMAIN,pub2.emby.wtf,Emby
-DOMAIN,pub3.emby.wtf,Emby
-DOMAIN,pub4.emby.wtf,Emby
+DOMAIN,pub1.emby.wtf,🎞 Emby
+DOMAIN,pub2.emby.wtf,🎞 Emby
+DOMAIN,pub3.emby.wtf,🎞 Emby
+DOMAIN,pub4.emby.wtf,🎞 Emby
 
 # > 卡戎
-DOMAIN,play.charontv.com,Emby
+DOMAIN,play.charontv.com,🎞 Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,Emby
-DOMAIN,ha.jmsooo.com,Emby
+DOMAIN,cf.jmsooo.com,🎞 Emby
+DOMAIN,ha.jmsooo.com,🎞 Emby
 
 # > 品云
 # 新加坡
-DOMAIN,py.embyplus.club,Emby 
-DOMAIN,py2.embyplus.club,Emby
+DOMAIN,py.embyplus.club,🎞 Emby
+DOMAIN,py2.embyplus.club,🎞 Emby
 
 # > Polo
-DOMAIN,df.poloemby.xyz,Emby
-DOMAIN,cu.poloemby.xyz,Emby
+DOMAIN,df.poloemby.xyz,🎞 Emby
+DOMAIN,cu.poloemby.xyz,🎞 Emby
 DOMAIN,nlz.poloemby.xyz,DIRECT
 DOMAIN,happy.poloemby.xyz,DIRECT
 
 # > Orange
 # 香港/德国
-DOMAIN,embytv.cf,Emby
+DOMAIN,Embytv.cf,🎞 Emby
 
 # > peach
 # 香港/日本
-DOMAIN,embymv.tk,Emby
+DOMAIN,Embymv.tk,🎞 Emby
 # 优先
 DOMAIN,kr.embymv.tk,DIRECT
 # 联通
@@ -43,7 +43,7 @@ DOMAIN,us.embymv.tk,DIRECT
 # DIRECT/PROXY
 DOMAIN,cf.misakaf.org,DIRECT
 # 亚洲PROXY
-DOMAIN,he.misakaf.org,Emby
+DOMAIN,he.misakaf.org,🎞 Emby
 # DIRECT
 DOMAIN,4837.misakaf.org,DIRECT
 
@@ -55,46 +55,46 @@ DOMAIN,misty.ltd,DIRECT
 DOMAIN,cc.ccemby.tk,DIRECT
 
 # > 佛系
-DOMAIN,1.4545.cf,Emby
+DOMAIN,1.4545.cf,🎞 Emby
 
 # > catfish
-DOMAIN,catfishemby.club,Emby
+DOMAIN,catfishemby.club,🎞 Emby
 DOMAIN,112.30.145.72,DIRECT
 
 # > MJJ
 DOMAIN,de.mjjemby.org,DIRECT
-DOMAIN,cf.mjjemby.org,Emby
+DOMAIN,cf.mjjemby.org,🎞 Emby
 DOMAIN,sg01.mjjemby.org,DIRECT
 DOMAIN,jp01.mjjemby.org,DIRECT
-DOMAIN,jp02.mjjemby.org,Emby
-DOMAIN,kr02.mjjemby.org,Emby
+DOMAIN,jp02.mjjemby.org,🎞 Emby
+DOMAIN,kr02.mjjemby.org,🎞 Emby
 
 # > EmbyX
 DOMAIN,us.embyx.one,DIRECT
 
 # > gfw
-DOMAIN,us-s1.gfwemby.org,Emby
-DOMAIN,us-s2.gfwemby.org,Emby
+DOMAIN,us-s1.gfwemby.org,🎞 Emby
+DOMAIN,us-s2.gfwemby.org,🎞 Emby
 DOMAIN,us-s3.gfwemby.org,DIRECT
 
 # > XMSS
-DOMAIN,emby.xmss.vip,DIRECT
+DOMAIN,Emby.xmss.vip,DIRECT
 
 # > DV
-DOMAIN,emby.lzlz.cc,DIRECT
+DOMAIN,Emby.lzlz.cc,DIRECT
 
 # > More
-DOMAIN,moreemby.com,Emby
+DOMAIN,moreemby.com,🎞 Emby
 
 # > infinityfly
 DOMAIN,infinityfly.top,DIRECT
 
 # > 不可描述
-DOMAIN,emby.agon.cf,DIRECT
+DOMAIN,Emby.agon.cf,DIRECT
 
 # > 酒吧影业
-DOMAIN,emby.o9o.nl,Emby
-DOMAIN,ddnsjp.titams.xyz,Emby
+DOMAIN,Emby.o9o.nl,🎞 Emby
+DOMAIN,ddnsjp.titams.xyz,🎞 Emby
 
 # > Loser
 DOMAIN,11.loseremby.org,DIRECT
@@ -105,12 +105,12 @@ DOMAIN,DIRECT.nebula-emby.com,DIRECT
 
 
 # > pornemby
-DOMAIN,pornemby.club,Emby
+DOMAIN,pornemby.club,🎞 Emby
 
 # > NakoNako
-DOMAIN,nakonako.net,Emby
-DOMAIN,nakoemby.com,Emby
-DOMAIN,20.205.38.244,Emby
+DOMAIN,nakonako.net,🎞 Emby
+DOMAIN,nakoemby.com,🎞 Emby
+DOMAIN,20.205.38.244,🎞 Emby
 
 # > emby-flowercloud
-DOMAIN,emby.flowercloud.yt,Emby
+DOMAIN,Emby.flowercloud.yt,🎞 Emby
