@@ -92,9 +92,25 @@ DOMAIN,infinityfly.top,DIRECT
 # > 不可描述
 DOMAIN,Emby.agon.cf,DIRECT
 
-# > 酒吧影业
-DOMAIN,Emby.o9o.nl,🎞 Emby
-DOMAIN,ddnsjp.titams.xyz,🎞 Emby
+# > 清吧
+#海外专用线路
+DOMAIN,194.9.62.134,🎞 Emby
+#国内普通优化
+DOMAIN,103.135.249.87,DIRECT
+DOMAIN,37.128.247.203,DIRECT
+#国内超级优化
+DOMAIN,114.80.36.60,DIRECT
+DOMAIN,14.215.163.57,DIRECT
+DOMAIN,111.22.142.145,DIRECT
+DOMAIN,223.111.132.10,DIRECT
+DOMAIN,14.215.163.106,DIRECT
+DOMAIN,49.7.208.101,DIRECT
+DOMAIN,114.80.36.200,DIRECT
+# > 会所
+#海外专用线路
+DOMAIN,194.9.62.121,🎞 Emby
+#国内普通优化
+DOMAIN,103.135.249.87,DIRECT
 
 # > Loser
 DOMAIN,11.loseremby.org,DIRECT
@@ -102,6 +118,10 @@ DOMAIN,cf.emby.ml,DIRECT
 
 # > Nebula
 DOMAIN,DIRECT.nebula-emby.com,DIRECT
+
+# > AcEmby
+DOMAIN,play.acemby.org,DIRECT
+
 
 
 # > pornemby
