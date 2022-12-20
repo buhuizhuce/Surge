@@ -122,6 +122,8 @@ DOMAIN,DIRECT.nebula-emby.com,DIRECT
 # > AcEmby
 DOMAIN,play.acemby.org,DIRECT
 
+# > BlueSea
+DOMAIN,emby-pub1.blueseacdn.com,DIRECT
 
 
 # > pornemby
