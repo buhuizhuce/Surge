@@ -38,13 +38,12 @@ DOMAIN,Embymv.tk,🎞 Emby
 DOMAIN,kr.embymv.tk,DIRECT
 # 联通
 DOMAIN,jp.embymv.tk,DIRECT
-DOMAIN,us.embymv.tk,DIRECT
 
 # > MisakaF
 # DIRECT/PROXY
 DOMAIN,cf.misakaf.org,DIRECT
-# 亚洲PROXY
-DOMAIN,he.misakaf.org,🎞 Emby
+# 电信/联通
+DOMAIN,hk.misakaf.org,DIRECT
 # DIRECT
 DOMAIN,4837.misakaf.org,DIRECT
 
@@ -60,7 +59,6 @@ DOMAIN,1.4545.cf,🎞 Emby
 
 # > catfish
 DOMAIN,catfishemby.club,🎞 Emby
-DOMAIN,54.222.246.145,DIRECT
 
 # > MJJ
 DOMAIN,de.mjjemby.org,DIRECT
