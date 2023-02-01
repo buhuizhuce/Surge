@@ -132,7 +132,13 @@ DOMAIN,20.205.38.244,DIRECT
 DOMAIN,nextfilm.nmg.llc,DIRECT
 
 # > 威威
-DOMAIN,gy.embyvip.org:80/,DIRECT
+DOMAIN,gy.embyvip.org,DIRECT
+
+# > hxd
+DOMAIN,emby.222921.xyz:443,🎞 Emby
+DOMAIN,embyen.222921.xyz:443,DIRECT
+DOMAIN,embyjp.222921.xyz:443,DIRECT
+DOMAIN,cf.222921.xyz:443,🎞 Emby
 
 # > emby-flowercloud
 DOMAIN,Emby.flowercloud.yt,🎞 Emby
