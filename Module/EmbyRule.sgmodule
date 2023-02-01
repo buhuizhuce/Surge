@@ -135,10 +135,10 @@ DOMAIN,nextfilm.nmg.llc,DIRECT
 DOMAIN,gy.embyvip.org,DIRECT
 
 # > hxd
-DOMAIN,emby.222921.xyz:443,🎞 Emby
-DOMAIN,embyen.222921.xyz:443,DIRECT
-DOMAIN,embyjp.222921.xyz:443,DIRECT
-DOMAIN,cf.222921.xyz:443,🎞 Emby
+DOMAIN,emby.222921.xyz,🎞 Emby
+DOMAIN,embyen.222921.xyz,DIRECT
+DOMAIN,embyjp.222921.xyz,DIRECT
+DOMAIN,cf.222921.xyz,🎞 Emby
 
 # > emby-flowercloud
 DOMAIN,Emby.flowercloud.yt,🎞 Emby
