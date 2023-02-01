@@ -93,13 +93,15 @@ DOMAIN,Emby.agon.cf,DIRECT
 
 # > 清吧
 #海外专用线路
-DOMAIN,194.9.62.134,🎞 Emby
+DOMAIN,qbint.the98.ltd,🎞 Emby
 #国内普通优化
-DOMAIN,37.128.247.203,DIRECT
+DOMAIN,qbcn.the98.ltd,DIRECT
 
 # > 会所
 #海外专用线路
-DOMAIN,194.9.62.121,🎞 Emby
+DOMAIN,hsint.the98.ltd,🎞 Emby
+#国内普通优化
+DOMAIN,hscn.the98.ltd,DIRECT
 
 
 # > Loser
@@ -107,10 +109,11 @@ DOMAIN,11.loseremby.org,DIRECT
 DOMAIN,cf.emby.ml,DIRECT
 
 # > Nebula
-DOMAIN,DIRECT.nebula-emby.com,DIRECT
+DOMAIN,direct.nebula-emby.com,DIRECT
 
 # > AcEmby
 DOMAIN,play.acemby.org,DIRECT
+DOMAIN,cf.play.acemby.org,DIRECT
 
 # > BlueSea
 DOMAIN,emby-pub1.blueseacdn.com,DIRECT
@@ -124,6 +127,12 @@ DOMAIN,pornemby.club,🎞 Emby
 DOMAIN,nakonako.net,🎞 Emby
 DOMAIN,nakoemby.com,DIRECT
 DOMAIN,20.205.38.244,DIRECT
+
+# > NMG NEXT
+DOMAIN,nextfilm.nmg.llc,DIRECT
+
+# > 威威
+DOMAIN,gy.embyvip.org:80/,DIRECT
 
 # > emby-flowercloud
 DOMAIN,Emby.flowercloud.yt,🎞 Emby
