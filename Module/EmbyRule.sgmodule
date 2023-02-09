@@ -40,12 +40,8 @@ DOMAIN,kr.embymv.tk,DIRECT
 DOMAIN,jp.embymv.tk,DIRECT
 
 # > MisakaF
-# DIRECT/PROXY
-DOMAIN,cf.misakaf.org,DIRECT
-# 电信/联通
-DOMAIN,hk.misakaf.org,DIRECT
-# DIRECT
-DOMAIN,4837.misakaf.org,DIRECT
+DOMAIN,cf.misakaf.org,🎞 Emby
+DOMAIN,cdn.misakaf.org,DIRECT
 
 # > Misty
 DOMAIN,misty.ltd,DIRECT
