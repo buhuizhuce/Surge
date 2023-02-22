@@ -126,7 +126,9 @@ DOMAIN,nakoemby.com,DIRECT
 DOMAIN,20.205.38.244,DIRECT
 
 # > NMG NEXT
-DOMAIN,nextfilm.nmg.llc,DIRECT
+DOMAIN,film.nmg.llc,DIRECT
+DOMAIN,film.chinaisp.org,DIRECT
+
 
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
