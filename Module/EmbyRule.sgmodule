@@ -29,7 +29,8 @@ DOMAIN,sp.pololine.ml,DIRECT
 
 # > Orange
 # 香港/德国
-DOMAIN,Embytv.cf,🎞 Emby
+DOMAIN,cf.Embytv.cf,🎞 Emby
+DOMAIN,cdn.Embytv.cf,DIRECT
 
 # > peach
 # 香港/日本
