@@ -3,23 +3,23 @@
 
 [Rule]
 # > 终点站
-DOMAIN,pub1.emby.wtf,🎞 Emby
-DOMAIN,pub2.emby.wtf,🎞 Emby
-DOMAIN,pub3.emby.wtf,🎞 Emby
-DOMAIN,pub4.emby.wtf,🎞 Emby
+DOMAIN,pub1.emby.wtf,DIRECT
+DOMAIN,pub2.emby.wtf,DIRECT
+DOMAIN,pub3.emby.wtf,DIRECT
+DOMAIN,pub4.emby.wtf,DIRECT
 
 # > 卡戎
 DOMAIN,play.charontv.com,🎞 Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,🎞 Emby
+DOMAIN,cf.jmsooo.com,🎞 Emby  //也可DIRECT
 DOMAIN,ha.jmsooo.com,🎞 Emby
 
 # > 品云
-# 新加坡
-DOMAIN,py.embyplus.club,DIRECT
-DOMAIN,py2.embyplus.club,🎞 Emby
 
+DOMAIN,py.embyplus.club,DIRECT
+DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
+ 
 # > Polo
 DOMAIN,df.poloemby.xyz,🎞 Emby
 DOMAIN,cu.poloemby.xyz,🎞 Emby
@@ -28,17 +28,14 @@ DOMAIN,cmi.pololine.ml,DIRECT
 DOMAIN,sp.pololine.ml,DIRECT
 
 # > Orange
-# 香港/德国
-DOMAIN,cf.Embytv.cf,🎞 Emby
+DOMAIN,cf.Embytv.cf,🇭🇰 香港-HK  //香港&德国
 DOMAIN,cdn.Embytv.cf,DIRECT
 
 # > peach
-# 香港/日本
-DOMAIN,Embymv.tk,🎞 Emby
-# 优先
-DOMAIN,kr.embymv.tk,DIRECT
-# 联通
-DOMAIN,jp.embymv.tk,DIRECT
+
+DOMAIN,Embymv.tk,🇭🇰 香港-HK  //香港&日本
+DOMAIN,kr.embymv.tk,DIRECT  //优选
+DOMAIN,jp.embymv.tk,DIRECT  //联通
 
 # > MisakaF
 DOMAIN,cf.misakaf.org,🎞 Emby
