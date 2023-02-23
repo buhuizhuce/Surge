@@ -12,11 +12,10 @@ DOMAIN,pub4.emby.wtf,DIRECT
 DOMAIN,play.charontv.com,🎞 Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,🎞 Emby  //也可DIRECT
+DOMAIN,cf.jmsooo.com,🎞 Emby  //&DIRECT
 DOMAIN,ha.jmsooo.com,🎞 Emby
 
 # > 品云
-
 DOMAIN,py.embyplus.club,DIRECT
 DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
  
@@ -38,65 +37,29 @@ DOMAIN,kr.embymv.tk,DIRECT  //优选
 DOMAIN,jp.embymv.tk,DIRECT  //联通
 
 # > MisakaF
-DOMAIN,cf.misakaf.org,🎞 Emby
+DOMAIN,cf.misakaf.org,DIRECT   //🎞 Emby
 DOMAIN,cdn.misakaf.org,DIRECT
 
 # > Misty
 DOMAIN,misty.ltd,DIRECT
 
 # > CC
-# 电信建议PROXY
 DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
-
-# > 佛系
-DOMAIN,1.4545.cf,🎞 Emby
 
 # > catfish
 DOMAIN,catfishemby.club,🎞 Emby
 
-# > MJJ
-DOMAIN,de.mjjemby.org,DIRECT
-DOMAIN,cf.mjjemby.org,🎞 Emby
-DOMAIN,sg01.mjjemby.org,DIRECT
-DOMAIN,jp01.mjjemby.org,DIRECT
-DOMAIN,jp02.mjjemby.org,🎞 Emby
-DOMAIN,kr02.mjjemby.org,🎞 Emby
-
 # > EmbyX
 DOMAIN,us.embyx.one,DIRECT
 
-# > gfw
-DOMAIN,us-s1.gfwemby.org,🎞 Emby
-DOMAIN,us-s2.gfwemby.org,🎞 Emby
-DOMAIN,us-s3.gfwemby.org,DIRECT
-
-# > XMSS
-DOMAIN,Emby.xmss.vip,DIRECT
-
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
-
-# > More
-DOMAIN,moreemby.com,🎞 Emby
 
 # > infinityfly
 DOMAIN,infinityfly.top,DIRECT
 
 # > 不可描述
 DOMAIN,Emby.agon.cf,DIRECT
-
-# > 清吧
-#海外专用线路
-DOMAIN,qbint.the98.ltd,🎞 Emby
-#国内普通优化
-DOMAIN,qbcn.the98.ltd,DIRECT
-
-# > 会所
-#海外专用线路
-DOMAIN,hsint.the98.ltd,🎞 Emby
-#国内普通优化
-DOMAIN,hscn.the98.ltd,DIRECT
-
 
 # > Loser
 DOMAIN,11.loseremby.org,DIRECT
@@ -113,6 +76,12 @@ DOMAIN,cf.play.acemby.org,DIRECT
 DOMAIN,emby-pub1.blueseacdn.com,DIRECT
 DOMAIN,bsem.ddns.me,DIRECT
 
+# > NMG NEXT
+DOMAIN,film.nmg.llc,DIRECT
+DOMAIN,film.chinaisp.org,DIRECT
+
+# > 威威
+DOMAIN,gy.embyvip.org,DIRECT
 
 # > pornemby
 DOMAIN,pornemby.club,🎞 Emby
@@ -122,19 +91,32 @@ DOMAIN,nakonako.net,🎞 Emby
 DOMAIN,nakoemby.com,DIRECT
 DOMAIN,20.205.38.244,DIRECT
 
-# > NMG NEXT
-DOMAIN,film.nmg.llc,DIRECT
-DOMAIN,film.chinaisp.org,DIRECT
-
-
-# > 威威
-DOMAIN,gy.embyvip.org,DIRECT
-
 # > hxd
-DOMAIN,emby.222921.xyz,🎞 Emby
-DOMAIN,embyen.222921.xyz,DIRECT
-DOMAIN,embyjp.222921.xyz,DIRECT
-DOMAIN,cf.222921.xyz,🎞 Emby
+DOMAIN,cf.222921.xyz,DIRECT
+DOMAIN,embyen.222921.xyz,DIRECT   //&英国
 
-# > emby-flowercloud
-DOMAIN,Emby.flowercloud.yt,🎞 Emby
+
+
+
+
+
+
+
+
+# 已不可用
+# > MJJ
+DOMAIN,de.mjjemby.org,DIRECT
+DOMAIN,cf.mjjemby.org,🎞 Emby
+DOMAIN,sg01.mjjemby.org,DIRECT
+DOMAIN,jp01.mjjemby.org,DIRECT
+DOMAIN,jp02.mjjemby.org,🎞 Emby
+DOMAIN,kr02.mjjemby.org,🎞 Emby
+
+# > More
+DOMAIN,moreemby.com,🇸🇬 狮城-SG   
+
+
+
+
+
+
