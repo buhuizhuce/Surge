@@ -41,7 +41,7 @@ DOMAIN,cf.misakaf.org,DIRECT   //🎞 Emby
 DOMAIN,cdn.misakaf.org,DIRECT
 
 # > Misty
-DOMAIN,misty.ltd,DIRECT
+DOMAIN,misty.ltd,🎞 Emby
 
 # > CC
 DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
