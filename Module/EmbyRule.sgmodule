@@ -23,11 +23,10 @@ DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
 DOMAIN,df.poloemby.xyz,🎞 Emby
 DOMAIN,cu.poloemby.xyz,🎞 Emby
 DOMAIN,happy.poloemby.xyz,DIRECT
-DOMAIN,cmi.pololine.ml,DIRECT
 DOMAIN,sp.pololine.ml,DIRECT
 
 # > Orange
-DOMAIN,cf.Embytv.cf,🇭🇰 香港-HK  //香港&德国
+DOMAIN,cf.Embytv.cf,🇯🇵 日本-JP  //日本
 DOMAIN,cdn.Embytv.cf,DIRECT
 
 # > peach
@@ -46,11 +45,8 @@ DOMAIN,misty.ltd,🎞 Emby
 # > CC
 DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
 
-# > catfish
-DOMAIN,catfishemby.club,🎞 Emby
-
 # > EmbyX
-DOMAIN,us.embyx.one,DIRECT
+DOMAIN,emby.speedx.one,DIRECT
 
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
@@ -70,14 +66,14 @@ DOMAIN,direct.nebula-emby.com,DIRECT
 
 # > AcEmby
 DOMAIN,play.acemby.org,DIRECT
-DOMAIN,cf.play.acemby.org,DIRECT
+DOMAIN,cflix.acemby.org,DIRECT
 
 # > BlueSea
 DOMAIN,emby-pub1.blueseacdn.com,DIRECT
 DOMAIN,bsem.ddns.me,DIRECT
 
 # > NMG NEXT
-DOMAIN,film.nmg.llc,DIRECT
+DOMAIN,film.goodisp.org,DIRECT
 DOMAIN,film.chinaisp.org,DIRECT
 
 # > 威威
@@ -95,12 +91,15 @@ DOMAIN,20.205.38.244,DIRECT
 DOMAIN,bili.bili.rip,🎞 Emby
 DOMAIN,embyjp.bili.rip,DIRECT   //&英国
 
+# > Mulgore
+DOMAIN,202.61.255.248,🎞 Emby
 
 
 
 
-
-
+# 暂时停服
+# > catfish
+DOMAIN,catfishemby.club,🎞 Emby
 
 
 # 已不可用
