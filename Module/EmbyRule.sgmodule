@@ -21,9 +21,8 @@ DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
  
 # > Polo
 DOMAIN,df.poloemby.xyz,🎞 Emby
-DOMAIN,cu.poloemby.xyz,🎞 Emby
-DOMAIN,happy.poloemby.xyz,DIRECT
-DOMAIN,sp.pololine.ml,DIRECT
+DOMAIN,cf.poloemby.xyz,DIRECT
+
 
 # > Orange
 DOMAIN,cf.Embytv.cf,🇯🇵 日本-JP  //日本
@@ -34,10 +33,6 @@ DOMAIN,cdn.Embytv.cf,DIRECT
 DOMAIN,Embymv.tk,🇭🇰 香港-HK  //香港&日本
 DOMAIN,kr.embymv.tk,DIRECT  //优选
 DOMAIN,jp.embymv.tk,DIRECT  //联通
-
-# > MisakaF
-DOMAIN,cf.misakaf.org,DIRECT   //🎞 Emby
-DOMAIN,cdn.misakaf.org,DIRECT
 
 # > Misty
 DOMAIN,misty.ltd,🎞 Emby
@@ -72,6 +67,8 @@ DOMAIN,cflix.acemby.org,DIRECT
 DOMAIN,emby-pub1.blueseacdn.com,DIRECT
 DOMAIN,bsem.ddns.me,DIRECT
 DOMAIN,Bluesea.ddns.me,DIRECT
+DOMAIN,bsyid.otoou.com,DIRECT
+DOMAIN,bsem.otoou.com,🇸🇬 狮城-SG
 
 # > NMG NEXT
 DOMAIN,film.goodisp.org,DIRECT
@@ -93,7 +90,8 @@ DOMAIN,bili.bili.rip,🎞 Emby
 DOMAIN,embyjp.bili.rip,DIRECT   //&英国
 
 # > Mulgore
-DOMAIN,202.61.255.248,🎞 Emby
+DOMAIN,one.mulgore.net,DIRECT
+DOMAIN,two.mulgore.net,DIRECT
 
 # > EmbyHub
 DOMAIN,emby.ednovas.org,DIRECT
@@ -114,9 +112,6 @@ DOMAIN,sg01.mjjemby.org,DIRECT
 DOMAIN,jp01.mjjemby.org,DIRECT
 DOMAIN,jp02.mjjemby.org,🎞 Emby
 DOMAIN,kr02.mjjemby.org,🎞 Emby
-
-# > More
-DOMAIN,moreemby.com,DIRECT
 
 
 
