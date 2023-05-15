@@ -78,35 +78,6 @@ DOMAIN,singularity.deja-vu.beauty,🎞 Emby
 DOMAIN,free.emby.eu.org,DIRECT
 DOMAIN,9wfree.emby.eu.org,DIRECT
 
-# 不可用
-# > EmbyX
-#DOMAIN,emby.speedx.one,DIRECT
-
-# > infinityfly
-DOMAIN,infinityfly.top,DIRECT
-
-# > BlueSea
-DOMAIN,emby-pub1.blueseacdn.com,DIRECT
-DOMAIN,bsem.ddns.me,DIRECT
-DOMAIN,Bluesea.ddns.me,DIRECT
-DOMAIN,bsyid.otoou.com,DIRECT
-DOMAIN,bsem.otoou.com,🇸🇬 狮城-SG
-
-# > NMG NEXT
-DOMAIN,film.goodisp.org,DIRECT
-DOMAIN,film.chinaisp.org,DIRECT
-
-
-# > catfish
-DOMAIN,catfishemby.club,🎞 Emby
-
-# > MJJ
-DOMAIN,de.mjjemby.org,DIRECT
-DOMAIN,cf.mjjemby.org,🎞 Emby
-DOMAIN,sg01.mjjemby.org,DIRECT
-DOMAIN,jp01.mjjemby.org,DIRECT
-DOMAIN,jp02.mjjemby.org,🎞 Emby
-DOMAIN,kr02.mjjemby.org,🎞 Emby
 
 
 
