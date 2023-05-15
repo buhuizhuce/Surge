@@ -13,25 +13,19 @@ DOMAIN,play.charontv.com,🎞 Emby
 
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com,🎞 Emby  //&DIRECT
-DOMAIN,ha.jmsooo.com,🎞 Emby
 
 # > 品云
 DOMAIN,py.embyplus.club,DIRECT
 DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
  
-# > Polo
-DOMAIN,df.poloemby.xyz,🎞 Emby
-DOMAIN,cf.poloemby.xyz,DIRECT
-
-
 # > Orange
-DOMAIN,cf.Embytv.cf,🇯🇵 日本-JP  //日本
+DOMAIN,cf.Embytv.cf,🇭🇰 香港-HK  //香港
 DOMAIN,cdn.Embytv.cf,DIRECT
 
 # > peach
 
 DOMAIN,Embymv.tk,🇭🇰 香港-HK  //香港&日本
-DOMAIN,kr.embymv.tk,DIRECT  //优选
+DOMAIN,kr.embymv.tk,DIRECT  
 DOMAIN,jp.embymv.tk,DIRECT  //联通
 
 # > Misty
@@ -40,8 +34,7 @@ DOMAIN,misty.ltd,🎞 Emby
 # > CC
 DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
 
-# > EmbyX
-DOMAIN,emby.speedx.one,DIRECT
+
 
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
@@ -102,6 +95,9 @@ DOMAIN,singularity.deja-vu.beauty,🎞 Emby
 
 
 
+
+# > EmbyX
+#DOMAIN,emby.speedx.one,DIRECT
 
 # 暂时停服
 # > catfish
