@@ -10,4 +10,4 @@
 阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
 [MITM]
-hostname = api.m.jd.com,wq.jd.co, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.co, activity-1.m.duiba.com.cn, %APPEND% auth.aliyundrive.com
+hostname = %APPEND% api.m.jd.com,wq.jd.co, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.co, activity-1.m.duiba.com.cn, auth.aliyundrive.com
