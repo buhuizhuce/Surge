@@ -55,7 +55,6 @@ DOMAIN,cflix.acemby.org,DIRECT
 DOMAIN,zox.show,DIRECT
 DOMAIN,cdn.zox.show,DIRECT
 
-
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
 
@@ -69,14 +68,15 @@ DOMAIN,usa.bili.rip,DIRECT
 # > 剧狗
 DOMAIN,ju.dog,DIRECT
 
-
 # > EmbyHub
 DOMAIN,emby.ednovas.org,DIRECT
 
 # > Singularity
 DOMAIN,singularity.deja-vu.beauty,🎞 Emby
 
-
+# > 星光
+DOMAIN,free.emby.eu.org,DIRECT
+DOMAIN,9wfree.emby.eu.org,DIRECT
 
 # 不可用
 # > EmbyX
