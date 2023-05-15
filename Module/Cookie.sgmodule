@@ -7,7 +7,7 @@
 欧可林Cookie = type=http-request,pattern=^https:\/\/mall\.oclean\.com\/API\/VshopProcess\.ashx$,script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js
 网易云音乐Cookie = type=http-request,pattern=^https:\/\/music.163.com\/weapi\/user\/level,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.cookie.js,requires-body=true
 智行火车票Cookie = type=http-request,pattern=^https:\/\/m\.ctrip\.com/restapi/soa2/14593/json/attendanceDay?,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.cookie.js, requires-body=true
-
+阿里云盘签到cookie = requires-body=1,type=http-response,pattern=https:\/\/auth.aliyundrive.com\/v2\/account\/token,script-path=https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
 
 [MITM]
-hostname = api.m.jd.com,wq.jd.co, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.co, activity-1.m.duiba.com.cn
+hostname = api.m.jd.com,wq.jd.co, www.52pojie.cn, as.xiaojukeji.com, mall.oclean.com, music.163.com, m.ctrip.co, activity-1.m.duiba.com.cn, %APPEND% auth.aliyundrive.com
