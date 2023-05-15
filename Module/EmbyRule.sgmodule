@@ -34,19 +34,14 @@ DOMAIN,misty.ltd,🎞 Emby
 # > CC
 DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
 
-
-
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
 
-# > infinityfly
-DOMAIN,infinityfly.top,DIRECT
-
 # > 不可描述
 DOMAIN,Emby.agon.cf,DIRECT
+DOMAIN,Emby2.agon.cf,DIRECT
 
 # > Loser
-DOMAIN,11.loseremby.org,DIRECT
 DOMAIN,cf.emby.ml,DIRECT
 
 # > Nebula
@@ -55,6 +50,40 @@ DOMAIN,direct.nebula-emby.com,DIRECT
 # > AcEmby
 DOMAIN,play.acemby.org,DIRECT
 DOMAIN,cflix.acemby.org,DIRECT
+
+# > Zox
+DOMAIN,zox.show,DIRECT
+DOMAIN,cdn.zox.show,DIRECT
+
+
+# > 威威
+DOMAIN,gy.embyvip.org,DIRECT
+
+# > pornemby
+DOMAIN,pornemby.club,🎞 Emby
+
+# > hxd
+DOMAIN,bili.bili.rip,🎞 Emby
+DOMAIN,usa.bili.rip,DIRECT   
+
+# > 剧狗
+DOMAIN,ju.dog,DIRECT
+
+
+# > EmbyHub
+DOMAIN,emby.ednovas.org,DIRECT
+
+# > Singularity
+DOMAIN,singularity.deja-vu.beauty,🎞 Emby
+
+
+
+# 不可用
+# > EmbyX
+#DOMAIN,emby.speedx.one,DIRECT
+
+# > infinityfly
+DOMAIN,infinityfly.top,DIRECT
 
 # > BlueSea
 DOMAIN,emby-pub1.blueseacdn.com,DIRECT
@@ -67,44 +96,10 @@ DOMAIN,bsem.otoou.com,🇸🇬 狮城-SG
 DOMAIN,film.goodisp.org,DIRECT
 DOMAIN,film.chinaisp.org,DIRECT
 
-# > 威威
-DOMAIN,gy.embyvip.org,DIRECT
 
-# > pornemby
-DOMAIN,pornemby.club,🎞 Emby
-
-# > NakoNako
-DOMAIN,nakonako.net,🎞 Emby
-DOMAIN,nakoemby.com,DIRECT
-DOMAIN,20.205.38.244,DIRECT
-
-# > hxd
-DOMAIN,bili.bili.rip,🎞 Emby
-DOMAIN,embyjp.bili.rip,DIRECT   //&英国
-DOMAIN,embyus.bili.rip,DIRECT  
-
-# > Mulgore
-DOMAIN,one.mulgore.net,DIRECT
-DOMAIN,two.mulgore.net,DIRECT
-
-# > EmbyHub
-DOMAIN,emby.ednovas.org,DIRECT
-
-# > Singularity
-DOMAIN,singularity.deja-vu.beauty,🎞 Emby
-
-
-
-
-# > EmbyX
-#DOMAIN,emby.speedx.one,DIRECT
-
-# 暂时停服
 # > catfish
 DOMAIN,catfishemby.club,🎞 Emby
 
-
-# 已不可用
 # > MJJ
 DOMAIN,de.mjjemby.org,DIRECT
 DOMAIN,cf.mjjemby.org,🎞 Emby
