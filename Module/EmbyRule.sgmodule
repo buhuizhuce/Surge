@@ -38,8 +38,8 @@ DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
 DOMAIN,Emby.lzlz.cc,DIRECT
 
 # > 不可描述
-DOMAIN,Emby.agon.cf,DIRECT
-DOMAIN,Emby2.agon.cf,DIRECT
+DOMAIN,Emby.agon.cf,🎞 Emby
+DOMAIN,Emby2.agon.cf,🎞 Emby
 
 # > Loser
 DOMAIN,cf.emby.ml,DIRECT
@@ -51,9 +51,6 @@ DOMAIN,direct.nebula-emby.com,DIRECT
 DOMAIN,play.acemby.org,DIRECT
 DOMAIN,cflix.acemby.org,DIRECT
 
-# > Zox
-DOMAIN,zox.show,DIRECT
-DOMAIN,cdn.zox.show,DIRECT
 
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
