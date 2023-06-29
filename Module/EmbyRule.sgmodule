@@ -18,10 +18,6 @@ DOMAIN,cf.jmsooo.com,🎞 Emby  //&DIRECT
 DOMAIN,py.embyplus.club,DIRECT
 DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
  
-# > Orange
-DOMAIN,cf.Embytv.cf,🇭🇰 香港-HK  //香港
-DOMAIN,cdn.Embytv.cf,DIRECT
-
 # > peach
 
 DOMAIN,Embymv.tk,🇭🇰 香港-HK  //香港&日本
@@ -37,9 +33,8 @@ DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
 
-# > 不可描述
+# > 私人影院
 DOMAIN,Emby.agon.cf,🎞 Emby
-DOMAIN,Emby2.agon.cf,🎞 Emby
 
 # > Loser
 DOMAIN,cf.emby.ml,DIRECT
