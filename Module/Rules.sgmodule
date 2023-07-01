@@ -1,5 +1,5 @@
-#!name=WhiteList
-#!desc=白名单
+#!name=Rules
+#!desc=自用规则合集
 
 [Rule]
 
