@@ -14,61 +14,52 @@ DOMAIN,play.charontv.com,🎞 Emby
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com,🎞 Emby  //&DIRECT
 
-# > 品云
-DOMAIN,py.embyplus.club,DIRECT
-DOMAIN,py2.embyplus.club,🇸🇬 狮城-SG
- 
-# > peach
+# > Loser
+DOMAIN,cf.emby.ml,DIRECT
 
+# > peach
 DOMAIN,Embymv.tk,🇭🇰 香港-HK  //香港&日本
 DOMAIN,kr.embymv.tk,DIRECT  
 DOMAIN,jp.embymv.tk,DIRECT  //联通
 
+# > Nebula
+DOMAIN,direct.nebula-emby.com,DIRECT
+
 # > Misty
 DOMAIN,misty.ltd,🎞 Emby
-
-# > CC
-DOMAIN,cc.ccemby.tk,🇯🇵 日本-JP
-
-# > DV
-DOMAIN,Emby.lzlz.cc,DIRECT
 
 # > 私人影院
 DOMAIN,Emby.agon.cf,🎞 Emby
 
-# > Loser
-DOMAIN,cf.emby.ml,DIRECT
-
-# > Nebula
-DOMAIN,direct.nebula-emby.com,DIRECT
-
-# > AcEmby
-DOMAIN,play.acemby.org,DIRECT
-DOMAIN,cflix.acemby.org,DIRECT
-
+# > DV
+DOMAIN,Emby.lzlz.cc,DIRECT
 
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
 
-# > pornemby
-DOMAIN,pornemby.club,🎞 Emby
+# > 星光
+DOMAIN,free.emby.eu.org,DIRECT
+DOMAIN,9wfree.emby.eu.org,DIRECT
+
+# > EmbyHub
+DOMAIN,emby.ednovas.org,🎞 Emby
+
+# > 剧狗
+DOMAIN,ju.dog,DIRECT
+
+# > TreeDiagram
+DOMAIN,789.123456.al,DIRECT
+
+# > Singularity
+DOMAIN,singularity.deja-vu.beauty,🎞 Emby
 
 # > hxd
 DOMAIN,bili.bili.rip,🎞 Emby
 DOMAIN,usa.bili.rip,DIRECT   
 
-# > 剧狗
-DOMAIN,ju.dog,DIRECT
+# > pornemby
+DOMAIN,pornemby.club,🎞 Emby
 
-# > EmbyHub
-DOMAIN,emby.ednovas.org,🎞 Emby
-
-# > Singularity
-DOMAIN,singularity.deja-vu.beauty,🎞 Emby
-
-# > 星光
-DOMAIN,free.emby.eu.org,DIRECT
-DOMAIN,9wfree.emby.eu.org,DIRECT
 
 
 
