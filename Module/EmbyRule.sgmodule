@@ -9,10 +9,10 @@ DOMAIN,pub3.emby.wtf,DIRECT
 DOMAIN,pub4.emby.wtf,DIRECT
 
 # > 卡戎
-DOMAIN,play.charontv.com,🎞 Emby
+DOMAIN,play.charontv.com,Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,🎞 Emby  //&DIRECT
+DOMAIN,cf.jmsooo.com,Emby  //&DIRECT
 
 # > Loser
 DOMAIN,cf.emby.ml,DIRECT
@@ -26,10 +26,10 @@ DOMAIN,jp.embymv.tk,DIRECT  //联通
 DOMAIN,direct.nebula-emby.com,DIRECT
 
 # > Misty
-DOMAIN,misty.ltd,🎞 Emby
+DOMAIN,misty.ltd,Emby
 
 # > 私人影院
-DOMAIN,Emby.agon.cf,🎞 Emby
+DOMAIN,Emby.agon.cf,Emby
 
 # > DV
 DOMAIN,Emby.lzlz.cc,DIRECT
@@ -42,7 +42,7 @@ DOMAIN,free.emby.eu.org,DIRECT
 DOMAIN,9wfree.emby.eu.org,DIRECT
 
 # > EmbyHub
-DOMAIN,emby.ednovas.org,🎞 Emby
+DOMAIN,emby.ednovas.org,Emby
 
 # > 剧狗
 DOMAIN,ju.dog,DIRECT
@@ -51,14 +51,14 @@ DOMAIN,ju.dog,DIRECT
 DOMAIN,789.123456.al,DIRECT
 
 # > Singularity
-DOMAIN,singularity.deja-vu.beauty,🎞 Emby
+DOMAIN,singularity.deja-vu.beauty,Emby
 
 # > hxd
-DOMAIN,bili.bili.rip,🎞 Emby
+DOMAIN,bili.bili.rip,Emby
 DOMAIN,usa.bili.rip,DIRECT   
 
 # > pornemby
-DOMAIN,pornemby.club,🎞 Emby
+DOMAIN,pornemby.club,Emby
 
 
 
