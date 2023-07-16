@@ -50,6 +50,9 @@ DOMAIN,ju.dog,DIRECT
 # > TreeDiagram
 DOMAIN,789.123456.al,DIRECT
 
+# > NMEmby
+DOMAIN,film.goodisp.org,Emby
+
 # > Singularity
 DOMAIN,singularity.deja-vu.beauty,Emby
 
