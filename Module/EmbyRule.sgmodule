@@ -58,7 +58,8 @@ DOMAIN,singularity.deja-vu.beauty,Emby
 
 # > hxd
 DOMAIN,bili.bili.rip,Emby
-DOMAIN,usa.bili.rip,DIRECT   
+DOMAIN,usa.bili.rip,DIRECT 
+DOMAIN,4837.bili.rip,DIRECT
 
 # > pornemby
 DOMAIN,pornemby.club,Emby
