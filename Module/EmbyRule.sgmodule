@@ -53,6 +53,10 @@ DOMAIN,789.123456.al,DIRECT
 # > NMEmby
 DOMAIN,film.goodisp.org,Emby
 
+# > Marmot
+DOMAIN,v.20120714.xyz,Emby
+DOMAIN,xl.studyfun.live,DIRECT
+
 # > Singularity
 DOMAIN,singularity.deja-vu.beauty,Emby
 
