@@ -51,7 +51,7 @@ DOMAIN,ju.dog,DIRECT
 DOMAIN,789.123456.al,DIRECT
 
 # > NMEmby
-DOMAIN,film.ohhhh.org,Emby
+DOMAIN,film.ohhhh.org,DIRECT
 
 # > Marmot
 DOMAIN,v.20120714.xyz,Emby
