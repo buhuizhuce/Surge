@@ -15,7 +15,8 @@ DOMAIN,play.charontv.com,Emby
 DOMAIN,cf.jmsooo.com,Emby  //&DIRECT
 
 # > Loser
-DOMAIN,cf.xmsl.org,Emby
+DOMAIN,cf.xmsl.org,DIRECT
+DOMAIN,11.loseremby.org,Emby
 
 # > peach
 DOMAIN,Embymv.tk,香港-HK  //香港&日本
