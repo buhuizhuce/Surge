@@ -3,7 +3,7 @@
 
 [Rule]
 
-
+DOMAIN,bing.com,DIRECT
 # > 取消<feilun.list>中屏蔽苹果系统更新
 DOMAIN, ns.itunes.apple.com,DIRECT
 DOMAIN, appldnld.apple.com,DIRECT
