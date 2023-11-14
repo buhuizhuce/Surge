@@ -6,7 +6,6 @@
 DOMAIN,pub1.emby.wtf,DIRECT
 DOMAIN,pub2.emby.wtf,DIRECT
 DOMAIN,pub3.emby.wtf,DIRECT
-DOMAIN,pub4.emby.wtf,DIRECT
 
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
@@ -16,31 +15,13 @@ DOMAIN,cf.jmsooo.com,Emby  //&DIRECT
 
 # > Loser
 DOMAIN,cf.xmsl.org,DIRECT
-DOMAIN,11.loseremby.org,Emby
+DOMAIN,free.xmsl.org,Emby
 
 # > peach
-DOMAIN,Embymv.tk,香港-HK  //香港&日本
-DOMAIN,kr.embymv.tk,DIRECT  
-DOMAIN,jp.embymv.tk,DIRECT  //联通
-
-# > Nebula
-DOMAIN,direct.nebula-emby.com,DIRECT
-
-# > Misty
-DOMAIN,misty.ltd,Emby
+DOMAIN,Embymv.tk,香港-HK  //香港&日本&DIRECT
 
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
-
-# > DV
-DOMAIN,Emby.lzlz.cc,DIRECT
-
-# > 威威
-DOMAIN,gy.embyvip.org,DIRECT
-
-# > 星光
-DOMAIN,free.emby.eu.org,DIRECT
-DOMAIN,9wfree.emby.eu.org,DIRECT
 
 # > EmbyHub
 DOMAIN,emby.ednovas.org,Emby
@@ -48,18 +29,18 @@ DOMAIN,emby.ednovas.org,Emby
 # > 剧狗
 DOMAIN,ju.dog,DIRECT
 
+# > 星光
+DOMAIN,free.emby.eu.org,DIRECT
+DOMAIN,9wfree.emby.eu.org,DIRECT
+
 # > TreeDiagram
 DOMAIN,789.123456.al,DIRECT
 
+# > 威威
+DOMAIN,gy.embyvip.org,DIRECT
+
 # > NMEmby
 DOMAIN,film.ohhhh.org,DIRECT
-
-# > Marmot
-DOMAIN,v.20120714.xyz,Emby
-DOMAIN,xl.studyfun.live,DIRECT
-
-# > Singularity
-DOMAIN,singularity.deja-vu.beauty,Emby
 
 # > hxd
 DOMAIN,usa.bili.rip,Emby
@@ -71,9 +52,8 @@ DOMAIN,nc.bili.rip,DIRECT
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
-# > Dolhpin
-DOMAIN,public.emby.ws,Emby
-
+# > Misty
+DOMAIN,misty.ltd,Emby
 
 
 
