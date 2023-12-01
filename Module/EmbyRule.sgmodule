@@ -42,18 +42,21 @@ DOMAIN,gy.embyvip.org,DIRECT
 # > NMEmby
 DOMAIN,film.ohhhh.org,DIRECT
 
+# > 放映厅
+DOMAIN,emby.9191001.xyz,DIRECT
+
+# > infinityfly
+DOMAIN,nc1.infinityfly.top,DIRECT
+
 # > hxd
-DOMAIN,usa.bili.rip,Emby
-DOMAIN,4837.bili.rip,DIRECT
-DOMAIN,bili.bili.rip,Emby
-DOMAIN,jp.bili.rip,DIRECT
-DOMAIN,nc.bili.rip,DIRECT
+DOMAIN,bili.bili.rip,香港-HK
+DOMAIN,hk.bili.rip,香港-HK
+DOMAIN,kr.bili.rip,Emby
 
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
-# > Misty
-DOMAIN,misty.ltd,Emby
+
 
 
 
