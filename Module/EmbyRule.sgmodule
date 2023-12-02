@@ -26,9 +26,6 @@ DOMAIN,Emby.agon.cf,Emby
 # > EmbyHub
 DOMAIN,emby.ednovas.org,Emby
 
-# > 剧狗
-DOMAIN,ju.dog,DIRECT
-
 # > 星光
 DOMAIN,free.emby.eu.org,DIRECT
 DOMAIN,9wfree.emby.eu.org,DIRECT
@@ -52,6 +49,7 @@ DOMAIN,nc1.infinityfly.top,DIRECT
 DOMAIN,bili.bili.rip,香港-HK
 DOMAIN,hk.bili.rip,香港-HK
 DOMAIN,kr.bili.rip,Emby
+DOMAIN,152.70.239.210,Emby
 
 # > pornemby
 DOMAIN,pornemby.club,Emby
