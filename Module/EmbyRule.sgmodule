@@ -14,7 +14,7 @@ DOMAIN,play.charontv.com,Emby
 DOMAIN,cf.jmsooo.com,Emby  //&DIRECT
 
 # > Loser
-DOMAIN,cf.xmsl.org,DIRECT
+DOMAIN,cf.xmsl.org,Emby
 DOMAIN,free.xmsl.org,Emby
 
 # > peach
