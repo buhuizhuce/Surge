@@ -3,9 +3,9 @@
 
 [Rule]
 # > 终点站
-DOMAIN,pub1.emby.wtf,DIRECT
-DOMAIN,pub2.emby.wtf,DIRECT
-DOMAIN,pub3.emby.wtf,DIRECT
+DOMAIN,pub1.emby.wtf,Emby
+DOMAIN,pub2.emby.wtf,Emby
+DOMAIN,pub3.emby.wtf,Emby
 
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
