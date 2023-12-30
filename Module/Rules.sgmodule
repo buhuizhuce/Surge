@@ -3,5 +3,4 @@
 
 [Rule]
 
-DOMAIN-SUFFIX,bing.com,DIRECT
 DOMAIN-SUFFIX,hdec.com,DIRECT
