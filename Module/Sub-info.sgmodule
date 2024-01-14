@@ -1,0 +1,6 @@
+#!name=🔗 Sub面板
+#!desc=自用Sub面板
+
+[Panel]
+Sub_info = script-name=FlowerCloud,update-interval=7200
+Sub_info = script-name=Nexitally,update-interval=7200
