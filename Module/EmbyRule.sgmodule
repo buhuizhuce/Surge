@@ -18,7 +18,7 @@ DOMAIN,cf.xmsl.org,Emby
 DOMAIN,free.xmsl.org,Emby
 
 # > peach
-DOMAIN,Embymv.tk,香港-HK  //香港&日本&DIRECT
+DOMAIN,Embymv.tk,Emby  //香港&日本&DIRECT
 
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
@@ -46,10 +46,9 @@ DOMAIN,emby.9191001.xyz,DIRECT
 DOMAIN,nc1.infinityfly.top,Emby
 
 # > hxd
-DOMAIN,bili.bili.rip,香港-HK
-DOMAIN,hk.bili.rip,香港-HK
-DOMAIN,kr.bili.rip,Emby
-DOMAIN,152.70.239.210,Emby
+DOMAIN,bili.bili.rip,DIRECT
+DOMAIN,bili.bili.rip,Emby
+DOMAIN,cf.bili.rip,Emby
 
 # > pornemby
 DOMAIN,pornemby.club,Emby
