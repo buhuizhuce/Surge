@@ -11,7 +11,7 @@ DOMAIN,pub3.emby.wtf,Emby
 DOMAIN,play.charontv.com,Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,Emby  //&DIRECT
+DOMAIN,cf.jmsooo.com,DIRECT
 
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
@@ -23,8 +23,6 @@ DOMAIN,Embymv.tk,Emby  //香港&日本&DIRECT
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
 
-# > EmbyHub
-DOMAIN,emby.ednovas.org,Emby
 
 # > 星光
 DOMAIN,free.emby.eu.org,DIRECT
@@ -41,9 +39,6 @@ DOMAIN,film.ohhhh.org,DIRECT
 
 # > 放映厅
 DOMAIN,emby.9191001.xyz,DIRECT
-
-# > infinityfly
-DOMAIN,nc1.infinityfly.top,Emby
 
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
