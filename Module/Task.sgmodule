@@ -1,5 +1,6 @@
 #!name=⏰ Task合集
 #!desc=自用Tasks模块配置
+#!category=🏄🏻‍♂️ Frank
 
 [Script]
 cron "5 0,23 * * *" script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林
