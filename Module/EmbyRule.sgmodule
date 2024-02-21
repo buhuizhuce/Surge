@@ -1,54 +1,40 @@
 #!name=🎞 EmbyRule
 #!desc=自用Emby服代理规则
-
-#!arguments=Policy:Direct
-#!arguments-desc=Emby服策略组选择,建议Emby、Direct。
-
+#!category=🏄🏻‍♂️ Frank
+#!arguments=卷毛鼠Policy:Emby,Peach Policy:Emby
+#!arguments-desc=Emby服策略组选择,建议Emby、DIRECT。
 
 [Rule]
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
-
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
-
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,{{{Policy}}}
-
+DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
 DOMAIN,free.xmsl.org,Emby
-
 # > peach
-DOMAIN,Embymv.tk,Emby  //香港&日本&DIRECT
-
+DOMAIN,Embymv.tk,{{{Peach Policy}}}  //香港&日本&DIRECT
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
-
-
 # > 星光
 DOMAIN,free.emby.eu.org,DIRECT
 DOMAIN,9wfree.emby.eu.org,DIRECT
-
 # > TreeDiagram
 DOMAIN,789.123456.al,DIRECT
-
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
-
 # > NMEmby
 DOMAIN,film.ohhhh.org,DIRECT
-
 # > 放映厅
 DOMAIN,emby.9191001.xyz,DIRECT
-
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
 DOMAIN,bili.bili.rip,Emby
 DOMAIN,cf.bili.rip,Emby
-
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
