@@ -1,6 +1,10 @@
 #!name=🎞 EmbyRule
 #!desc=自用Emby服代理规则
 
+#!arguments=Policy:Direct
+#!arguments-desc=Emby服策略组选择,建议Emby、Direct。
+
+
 [Rule]
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
@@ -11,7 +15,7 @@ DOMAIN,pub3.emby.wtf,Emby
 DOMAIN,play.charontv.com,Emby
 
 # > 卷毛鼠
-DOMAIN,cf.jmsooo.com,Emby
+DOMAIN,cf.jmsooo.com,{{{Policyl}}}
 
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
