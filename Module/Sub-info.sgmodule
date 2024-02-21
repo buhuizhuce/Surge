@@ -1,5 +1,6 @@
 #!name=🔗 Sub面板
 #!desc=自用Sub面板
+#!category=🏄🏻‍♂️ Frank
 
 [Panel]
 Sub_info = script-name=FlowerCloud,update-interval=7200
