@@ -24,7 +24,7 @@ DOMAIN,Emby.agon.cf,Emby
 DOMAIN,free.emby.eu.org,DIRECT
 DOMAIN,9wfree.emby.eu.org,DIRECT
 # > TreeDiagram
-DOMAIN,789.123456.al,DIRECT
+DOMAIN,789.123456.al,Emby
 # > 威威
 DOMAIN,gy.embyvip.org,DIRECT
 # > NMEmby
