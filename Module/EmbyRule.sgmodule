@@ -33,7 +33,7 @@ DOMAIN,film.ohhhh.org,DIRECT
 DOMAIN,emby.9191001.xyz,DIRECT
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
-DOMAIN,bili.bili.rip,Emby
+DOMAIN,cdn.bili.rip,DIRECT
 DOMAIN,cf.bili.rip,Emby
 # > pornemby
 DOMAIN,pornemby.club,Emby
