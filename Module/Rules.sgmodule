@@ -3,7 +3,7 @@
 #!category=🏄🏻‍♂️ Frank
 
 [Rule]
-
+DOMAIN-KEYWORD,octopus,香港-HK
 DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
 DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
