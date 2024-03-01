@@ -1,8 +1,8 @@
 #!name=🎞 EmbyRule
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
-#!arguments=卷毛鼠Policy:Emby,Peach Policy:Emby
-#!arguments-desc=Emby服策略组选择,建议Emby、DIRECT。
+#!arguments=卷毛鼠Policy:Emby,Peach Policy:Emby,cc Policy:日本-JP
+#!arguments-desc=Emby服策略组选择,建议Emby、日本-JP、DIRECT。
 
 [Rule]
 # > 终点站
@@ -18,8 +18,8 @@ DOMAIN,cf.xmsl.org,Emby
 DOMAIN,free.xmsl.org,Emby
 # > peach
 DOMAIN,peachmv.me,{{{Peach Policy}}}  //香港&日本&DIRECT
-# > CC
-DOMAIN,cc.coemn.com,Emby
+# > cc
+DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 # > StarCat
 DOMAIN,flarex.starcat.eu.org,DIRECT
 # > lyrebird
