@@ -38,6 +38,8 @@ DOMAIN,gy.embyvip.org,DIRECT
 DOMAIN,film.ohhhh.org,DIRECT
 # > 放映厅
 DOMAIN,emby.9191001.xyz,DIRECT
+# > NyaMedia
+DOMAIN,emby.bangumi.ca,Emby
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
 DOMAIN,cdn.bili.rip,DIRECT
