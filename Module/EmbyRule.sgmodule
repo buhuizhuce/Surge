@@ -2,7 +2,7 @@
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
 #!arguments=卷毛鼠Policy:Emby,Peach Policy:香港-HK,cc Policy:日本-JP
-#!arguments-desc=Emby服策略组选择,建议Emby、日本-JP、DIRECT。
+#!arguments-desc=Emby服策略组选择,建议Emby、香港-HK、日本-JP、DIRECT。
 
 [Rule]
 # > 终点站
