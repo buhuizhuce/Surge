@@ -23,8 +23,7 @@ DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 # > StarCat
 DOMAIN,flarex.starcat.eu.org,DIRECT
 # > lyrebird
-DOMAIN,direct.lyrebirdemby.com,DIRECT
-DOMAIN,cdn.lyrebirdemby.com,DIRECT
+DOMAIN,cdn.lyrebirdemby.com,Emby
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
 # > 星光
