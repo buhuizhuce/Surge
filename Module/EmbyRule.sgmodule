@@ -43,6 +43,8 @@ DOMAIN,emby.bangumi.ca,Emby
 DOMAIN,misty.cx,Emby
 # > 野兽
 DOMAIN,emby-us-v4.mius.uk,DIRECT
+# > 野兽
+DOMAIN,emby-fr-v6.mius.uk,DIRECT
 # > apop
 DOMAIN,api.apopcloud.me,Emby
 DOMAIN,emby.apopcloud.com,Emby
