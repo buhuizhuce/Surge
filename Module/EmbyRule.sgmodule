@@ -51,6 +51,8 @@ DOMAIN,emby.apopcloud.com,Emby
 DOMAIN,portal.apopcloud.com,Emby
 # > 飞跃彩虹
 DOMAIN,152.53.19.231,Emby
+# > MICU
+DOMAIN,tv.micu.hk,DIRECT
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
 DOMAIN,cdn.bili.rip,DIRECT
