@@ -2,7 +2,7 @@
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
 #!arguments=卷毛鼠Policy:Emby,Peach Policy:香港-HK,cc Policy:日本-JP
-#!arguments-desc=Emby服策略组选择,建议Emby、香港-HK、日本-JP、DIRECT。
+#!arguments-desc=Emby服策略组选择，建议Emby、香港-HK、日本-JP、DIRECT。
 
 [Rule]
 # > 终点站
@@ -25,8 +25,6 @@ DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 DOMAIN,flare.catlinks.co.uk,DIRECT
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
-# > 私人影院
-DOMAIN,Emby.agon.cf,Emby
 # > 星光
 DOMAIN,free.emby.eu.org,DIRECT
 # > TreeDiagram
@@ -43,7 +41,6 @@ DOMAIN,emby.bangumi.ca,Emby
 DOMAIN,misty.cx,Emby
 # > 野兽
 DOMAIN,emby-us-v4.mius.uk,DIRECT
-# > 野兽
 DOMAIN,emby-fr-v6.mius.uk,DIRECT
 # > apop
 DOMAIN,api.apopcloud.me,Emby
@@ -59,6 +56,10 @@ DOMAIN,cdn.bili.rip,DIRECT
 DOMAIN,cf.bili.rip,Emby
 # > pornemby
 DOMAIN,pornemby.club,Emby
+
+
+# > 私人影院
+DOMAIN,Emby.agon.cf,Emby
 
 
 
