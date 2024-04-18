@@ -54,10 +54,11 @@ DOMAIN,tv.micu.hk,DIRECT
 DOMAIN,bili.bili.rip,DIRECT
 DOMAIN,cdn.bili.rip,DIRECT
 DOMAIN,cf.bili.rip,Emby
+# > 叔服
+DOMAIN,emby3.mcjoker.xyz,Emby
+DOMAIN,jz.mcjoker.xyz,DIRECT
 # > pornemby
 DOMAIN,pornemby.club,Emby
-
-
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
 
