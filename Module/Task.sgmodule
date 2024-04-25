@@ -1,9 +1,9 @@
 #!name=⏰ Task合集
-#!desc=自用Tasks模块配置
+#!desc=自用Task模块配置
 #!category=🏄🏻‍♂️ Frank
 
 [Script]
-欧可林 = type=cron, cronexp="5 0,23 * * *", script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, timeout=60, wake-system=1
-网易云音乐 = type=cron, cronexp="6 0 * * *", script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js, timeout=60, wake-system=1
-阿里云盘签到 = type=cron, cronexp="0 10 0 * *", script-path=https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js, timeout=60, wake-system=1
-华住会 = type=cron, cronexp="0 12 0 * * ?", script-path=https://raw.githubusercontent.com/wf021325/qx/master/task/hzh.js, timeout=60, wake-system=1
+欧可林 = type=cron, cronexp="4 0,23 * * *", script-path=https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, timeout=60, wake-system=1
+华住会 = type=cron, cronexp="6 0 * * *", script-path=https://raw.githubusercontent.com/wf021325/qx/master/task/hzh.js, timeout=60, wake-system=1
+网易云音乐 = type=cron, cronexp="8 0 * * *", script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/neteasemusic.js, timeout=60, wake-system=1
+阿里云盘签到 = type=cron, cronexp="10 0 * * *", script-path=https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js, timeout=60, wake-system=1
