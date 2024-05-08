@@ -43,13 +43,14 @@ DOMAIN,misty.cx,Emby
 DOMAIN,emby-us-v4.mius.uk,DIRECT
 DOMAIN,emby-fr-v6.mius.uk,DIRECT
 # > apop
-DOMAIN,api.apopcloud.me,Emby
 DOMAIN,emby.apopcloud.com,Emby
 DOMAIN,portal.apopcloud.com,Emby
 # > 飞跃彩虹
 DOMAIN,152.53.19.231,Emby
 # > MICU
 DOMAIN,tv.micu.hk,DIRECT
+# > 纸片人
+DOMAIN,embyplus.org,DIRECT
 # > hxd
 DOMAIN,bili.bili.rip,DIRECT
 DOMAIN,cdn.bili.rip,DIRECT
