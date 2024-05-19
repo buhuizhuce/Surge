@@ -58,6 +58,10 @@ DOMAIN,cf.bili.rip,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 DOMAIN,jz.mcjoker.xyz,DIRECT
+# > 江湖
+DOMAIN,film.reddust.link,DIRECT
+# > Heisi
+DOMAIN,i109.com,DIRECT
 # > pornemby
 DOMAIN,pornemby.club,Emby
 # > 私人影院
