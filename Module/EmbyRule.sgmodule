@@ -62,7 +62,8 @@ DOMAIN,jz.mcjoker.xyz,DIRECT
 # > 江湖
 DOMAIN,film.reddust.link,Emby
 # > Heisi
-DOMAIN,i109.com,Emby
+DOMAIN,i109.com,DIRECT
+DOMAIN,heisi.nekobox.best,Emby
 # > pornemby
 DOMAIN,pornemby.club,Emby
 # > 私人影院
