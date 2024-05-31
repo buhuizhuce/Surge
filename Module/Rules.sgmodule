@@ -4,7 +4,7 @@
 
 [Rule]
 # PocketCasts
-DOMAIN-KEYWORD,pocketcasts,PROXY
+DOMAIN-KEYWORD,pocketcasts,香港-HK
 # 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
 # 工作
