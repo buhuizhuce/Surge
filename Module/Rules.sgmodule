@@ -3,7 +3,11 @@
 #!category=🏄🏻‍♂️ Frank
 
 [Rule]
+# PocketCasts
+DOMAIN-KEYWORD,pocketcasts,PROXY
+# 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
+# 工作
 DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
 DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
