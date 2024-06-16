@@ -19,7 +19,7 @@ DOMAIN,cfhd.xmsl.org,Emby
 DOMAIN,free.xmsl.org,Emby
 # > peach
 DOMAIN,embymv.tk,{{{Peach Policy}}}  //香港&日本
-HOST,193.123.232.141,{{{Peach Policy}}} 
+IP-CIDR ,193.123.232.141/32,{{{Peach Policy}}} 
 # > cc
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 # > StarCat
