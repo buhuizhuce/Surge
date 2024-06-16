@@ -22,7 +22,7 @@ DOMAIN,embymv.tk,{{{Peach Policy}}}  //香港&日本
 # > cc
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 # > StarCat
-DOMAIN,flare.catlinks.co.uk,DIRECT
+DOMAIN,flare.catlinks.co.uk,Emby
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
 # > 星光
