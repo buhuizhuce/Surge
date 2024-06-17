@@ -29,7 +29,6 @@ DOMAIN,cdn.lyrebirdemby.com,Emby
 DOMAIN,free.emby.eu.org,Emby    //DIRECT
 # > TreeDiagram
 DOMAIN,789.123456.al,Emby
-
 # > NMEmby
 DOMAIN,film.hovervan.org,DIRECT
 # > 放映厅
@@ -42,6 +41,7 @@ DOMAIN,misty.cx,Emby
 DOMAIN,emby-us-v4.mius.uk,Emby
 DOMAIN,emby-fr-v6.mius.uk,Emby
 # > apop
+DOMAIN,api.apopcloud.me,Emby
 DOMAIN,emby.apopcloud.com,Emby
 DOMAIN,portal.apopcloud.com,Emby
 # > 飞跃彩虹
@@ -61,6 +61,9 @@ DOMAIN,film.reddust.link,Emby
 # > Heisi
 DOMAIN,i109.com,DIRECT
 DOMAIN,heisi.nekobox.best,Emby
+DOMAIN,h1.i109.com,Emby
+DOMAIN,h2.i109.com,Emby
+
 
 # > 暂不可用
 # > pornemby
