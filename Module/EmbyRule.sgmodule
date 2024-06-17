@@ -15,8 +15,7 @@ DOMAIN,play.charontv.com,Emby
 DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
-DOMAIN,cfhd.xmsl.org,Emby
-DOMAIN,free.xmsl.org,Emby
+DOMAIN,cf.emby.moe,Emby
 # > peach
 DOMAIN,embymv.tk,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
@@ -27,11 +26,10 @@ DOMAIN,flare.catlinks.co.uk,Emby
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
 # > 星光
-DOMAIN,free.emby.eu.org,DIRECT
+DOMAIN,free.emby.eu.org,Emby    //DIRECT
 # > TreeDiagram
 DOMAIN,789.123456.al,Emby
-# > 威威
-DOMAIN,gy.embyvip.org,DIRECT
+
 # > NMEmby
 DOMAIN,film.hovervan.org,DIRECT
 # > 放映厅
@@ -49,8 +47,6 @@ DOMAIN,portal.apopcloud.com,Emby
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
-# > MICU
-DOMAIN,tv.micu.hk,DIRECT
 # > 纸片人
 DOMAIN,embyplus.org,DIRECT
 # > hxd
@@ -65,12 +61,16 @@ DOMAIN,film.reddust.link,Emby
 # > Heisi
 DOMAIN,i109.com,DIRECT
 DOMAIN,heisi.nekobox.best,Emby
+
+# > 暂不可用
 # > pornemby
 DOMAIN,pornemby.club,Emby
 # > 私人影院
 DOMAIN,Emby.agon.cf,Emby
-
-
+# > 威威
+DOMAIN,gy.embyvip.org,DIRECT
+# > MICU
+DOMAIN,tv.micu.hk,DIRECT
 
 
 
