@@ -58,6 +58,7 @@ DOMAIN,emby3.mcjoker.xyz,Emby
 DOMAIN,jz.mcjoker.xyz,DIRECT
 # > 江湖
 DOMAIN,film.reddust.link,Emby
+DOMAIN,jh.reddust.link,Emby
 # > Heisi
 DOMAIN,i109.com,DIRECT
 DOMAIN,heisi.nekobox.best,Emby
@@ -65,6 +66,9 @@ DOMAIN,h1.i109.com,Emby
 DOMAIN,h2.i109.com,Emby
 # > 大湾区
 DOMAIN,dyy.dawanqukun.top,Emby
+# > 天南小筑
+DOMAIN,emby.tnx.one,DIRECT
+
 
 # > 暂不可用
 # > pornemby
