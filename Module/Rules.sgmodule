@@ -9,6 +9,9 @@ DOMAIN-KEYWORD,pocketcasts,香港-HK
 DOMAIN-KEYWORD,octopus,香港-HK
 # OCBC
 DOMAIN-KEYWORD,ocbc,狮城-SG
+# 养基宝
+DOMAIN-SUFFIX,yangjibao.com,DIRECT
+DOMAIN-KEYWORD,yangjibao,DIRECT
 # 工作
 DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
