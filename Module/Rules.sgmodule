@@ -3,17 +3,28 @@
 #!category=🏄🏻‍♂️ Frank
 
 [Rule]
+# 工作
+DOMAIN-SUFFIX,hdec.com,DIRECT
+DOMAIN-SUFFIX,powerchina.cn,DIRECT
+# Nxtitally
+DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts,香港-HK
 # 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
 # OCBC
 DOMAIN-KEYWORD,ocbc,狮城-SG
+# MoneyWiz
+DOMAIN-SUFFIX,wiz.money,Proxy
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
-# 工作
-DOMAIN-SUFFIX,hdec.com,DIRECT
-DOMAIN-SUFFIX,powerchina.cn,DIRECT
-# Nxtitally
-DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
+# 有知有行
+DOMAIN-KEYWORD,youzhiyouxing,DIRECT
+# 华住会
+DOMAIN-SUFFIX,huazhu.com,DIRECT
+# oclean
+DOMAIN-SUFFIX,oclean.com,DIRECT
+# todesk
+DOMAIN-SUFFIX,todesk.com,DIRECT
+
