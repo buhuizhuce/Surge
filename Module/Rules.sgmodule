@@ -30,5 +30,10 @@ DOMAIN-SUFFIX,todesk.com,DIRECT
 # 米家
 DOMAIN-SUFFIX,mijia.tech,DIRECT
 DOMAIN-SUFFIX,spec.org,DIRECT
+# Aqara
+DOMAIN-SUFFIX,aqara.com,DIRECT
+
 # 沉浸式翻译
 DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
+DOMAIN-SUFFIX,meta.appinn.net,DIRECT
+DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
