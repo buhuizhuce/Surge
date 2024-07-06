@@ -27,4 +27,5 @@ DOMAIN-SUFFIX,huazhu.com,DIRECT
 DOMAIN-SUFFIX,oclean.com,DIRECT
 # todesk
 DOMAIN-SUFFIX,todesk.com,DIRECT
-
+# 米家
+DOMAIN-SUFFIX,mijia.tech,DIRECT
