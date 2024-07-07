@@ -41,3 +41,5 @@ DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
 DOMAIN-SUFFIX,meta.appinn.net,DIRECT
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
+# 长桥证券
+DOMAIN-KEYWORD,longbridge,Proxy
