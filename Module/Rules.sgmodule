@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,octopus,香港-HK
 DOMAIN-KEYWORD,ocbc,狮城-SG
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money,Proxy
+DOMAIN-SUFFIX,syncbits.com,Proxy
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
@@ -29,11 +30,14 @@ DOMAIN-SUFFIX,oclean.com,DIRECT
 DOMAIN-SUFFIX,todesk.com,DIRECT
 # 米家
 DOMAIN-SUFFIX,mijia.tech,DIRECT
-DOMAIN-SUFFIX,spec.org,DIRECT
+DOMAIN-SUFFIX,miot-spec.org,DIRECT
+DOMAIN-SUFFIX,mi-fds.com,DIRECT
+DOMAIN-SUFFIX,multilingual-volc.com,DIRECT
 # Aqara
 DOMAIN-SUFFIX,aqara.com,DIRECT
-
 # 沉浸式翻译
 DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
+# 小众软件
 DOMAIN-SUFFIX,meta.appinn.net,DIRECT
+# 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
