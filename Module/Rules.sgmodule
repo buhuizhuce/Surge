@@ -8,8 +8,13 @@ DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
 # Google DNS
 IP-CIDR,8.8.8.8/32,Proxy
+# Apple
+DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
 # Nxtitally
 DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
+# 扑克云
+DOMAIN-SUFFIX,pokeryun.link,Proxy
+DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts,香港-HK
 # 八达通
