@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
 DOMAIN-SUFFIX,ipinfo.io,Proxy
 DOMAIN-SUFFIX,openexchangerates.org,Proxy
+# WISE
+DOMAIN-SUFFIX,wise.com,Proxy
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
