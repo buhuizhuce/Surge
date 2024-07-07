@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
 # DNS
 IP-CIDR,8.8.8.8/32,Proxy
-IP-CIDR,114.114.114.114/32,Proxy
+IP-CIDR,114.114.114.114/32,DIRECT
 # Apple
 DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
 # Nxtitally
