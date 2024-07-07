@@ -6,6 +6,8 @@
 # 工作
 DOMAIN-SUFFIX,hdec.com,DIRECT
 DOMAIN-SUFFIX,powerchina.cn,DIRECT
+# Google DNS
+IP-CIDR,8.8.8.8/32,Proxy
 # Nxtitally
 DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
 # PocketCasts
@@ -17,6 +19,8 @@ DOMAIN-KEYWORD,ocbc,狮城-SG
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
+DOMAIN-SUFFIX,ipinfo.io,Proxy
+DOMAIN-SUFFIX,openexchangerates.org,Proxy
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
