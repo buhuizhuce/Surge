@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
 DOMAIN-KEYWORD,longbridge,DIRECT
 DOMAIN-SUFFIX,lbkrs.com,DIRECT
 DOMAIN-SUFFIX,singular.net,DIRECT
+# 阿里云
+DOMAIN-SUFFIX,aliyundrive.net,DIRECT
 # 其他
 DOMAIN-SUFFIX,outbrain.com,Proxy
 DOMAIN-SUFFIX,ipinfo.io,Proxy
