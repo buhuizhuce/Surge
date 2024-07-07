@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,pokeryun.link,Proxy
 DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts,香港-HK
+# MoneyWiz
+DOMAIN-SUFFIX,wiz.money,Proxy
+DOMAIN-SUFFIX,syncbits.com,Proxy
 # 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
 # OCBC
@@ -25,11 +28,12 @@ DOMAIN-KEYWORD,ocbc,狮城-SG
 DOMAIN-SUFFIX,ocbc.com,狮城-SG
 DOMAIN-SUFFIX,omtrdc.net,狮城-SG
 DOMAIN-SUFFIX,everesttech.net,狮城-SG
-# MoneyWiz
-DOMAIN-SUFFIX,wiz.money,Proxy
-DOMAIN-SUFFIX,syncbits.com,Proxy
 # WISE
 DOMAIN-SUFFIX,wise.com,Proxy
+# 长桥证券
+DOMAIN-KEYWORD,longbridge,DIRECT
+DOMAIN-SUFFIX,lbkrs.com,DIRECT
+DOMAIN-SUFFIX,singular.net,DIRECT
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
@@ -54,10 +58,6 @@ DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
 DOMAIN-SUFFIX,meta.appinn.net,DIRECT
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
-# 长桥证券
-DOMAIN-KEYWORD,longbridge,DIRECT
-DOMAIN-SUFFIX,lbkrs.com,DIRECT
-DOMAIN-SUFFIX,singular.net,DIRECT
 # 阿里云
 DOMAIN-SUFFIX,aliyundrive.net,DIRECT
 # 其他
