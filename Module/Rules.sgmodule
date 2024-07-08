@@ -20,6 +20,8 @@ DOMAIN-KEYWORD,pocketcasts,香港-HK
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
+DOMAIN-SUFFIX,clearbit.com,Proxy
+DOMAIN-SUFFIX,faviconkit.com,Proxy
 # 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
 # OCBC
