@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,wise.com,Proxy
 DOMAIN-KEYWORD,longbridge,DIRECT
 DOMAIN-SUFFIX,lbkrs.com,DIRECT
 DOMAIN-SUFFIX,singular.net,DIRECT
+# 兴业银行
+DOMAIN-SUFFIX,yypt.com,DIRECT
 # 养基宝
 DOMAIN-SUFFIX,yangjibao.com,DIRECT
 DOMAIN-KEYWORD,yangjibao,DIRECT
