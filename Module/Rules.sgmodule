@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,mi-fds.com,DIRECT
 DOMAIN-SUFFIX,multilingual-volc.com,DIRECT
 # i茅台
 DOMAIN-SUFFIX,puata.info.com,DIRECT
+# 咸鱼
+DOMAIN-SUFFIX,effirst.com,DIRECT
+DOMAIN-SUFFIX,huishoubao.com,DIRECT
 # 高德
 DOMAIN-SUFFIX,alibabachengdun.com,DIRECT
 DOMAIN-SUFFIX,alibabachengdun.net,DIRECT
