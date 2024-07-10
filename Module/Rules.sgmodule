@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
 # stay
 DOMAIN-SUFFIX,staybrowser.com,DIRECT
 DOMAIN-SUFFIX,stayfork.app,Proxy
+DOMAIN-SUFFIX,greasyfork.org,Proxy
 # 小众软件
 DOMAIN-SUFFIX,meta.appinn.net,DIRECT
 # 黄页
