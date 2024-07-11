@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,omtrdc.net,狮城-SG
 DOMAIN-SUFFIX,everesttech.net,狮城-SG
 # WISE
 DOMAIN-SUFFIX,wise.com,Proxy
+DOMAIN-SUFFIX,braze.eu,Proxy
 # 长桥证券
 DOMAIN-KEYWORD,longbridge,DIRECT
 DOMAIN-SUFFIX,lbkrs.com,DIRECT
