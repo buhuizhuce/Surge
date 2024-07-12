@@ -6,7 +6,7 @@
 
 [Rule]
 # > Fileball
-DOMAIN,workers.fileball.app,Proxy
+# DOMAIN,workers.fileball.app,Proxy
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
