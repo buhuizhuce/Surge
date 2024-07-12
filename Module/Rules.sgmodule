@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,powerchina.cn,DIRECT
 DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
 # Nxtitally
 DOMAIN-SUFFIX,uzwbdv.xyz,DIRECT
+# 大湾区
+DOMAIN,dawanqukun.top,Proxy
 # 扑克云
 DOMAIN-SUFFIX,pokeryun.link,Proxy
 DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
@@ -39,7 +41,7 @@ DOMAIN-SUFFIX,singular.net,DIRECT
 DOMAIN-SUFFIX,hawkinsight.com,DIRECT
 DOMAIN-SUFFIX,egoid.me,DIRECT
 DOMAIN-SUFFIX,zhitongcaijing.com,DIRECT
-DOMAIN-SUFFIX,eddanow.sg,DIRECT
+DOMAIN-SUFFIX,edda现在.sg,DIRECT
 DOMAIN-SUFFIX,gov.sg,DIRECT
 DOMAIN-SUFFIX,go-mpulse.net,DIRECT
 DOMAIN-SUFFIX,online-metrix.net,DIRECT
