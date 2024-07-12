@@ -13,7 +13,7 @@ DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
-DOMAIN.vip.charontv.com,Emby
+DOMAIN,vip.charontv.com,Emby
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}
 # > Loser
