@@ -5,6 +5,8 @@
 #!arguments-desc=Emby服策略组选择，建议Emby、香港-HK、日本-JP、DIRECT。
 
 [Rule]
+# > Fileball
+DOMAIN,workers.fileball.app,Proxy
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
@@ -71,6 +73,7 @@ DOMAIN,dyy.dawanqukun.top,Emby
 DOMAIN,emby.tnx.one,Emby
 # > 探花TV
 DOMAIN,tanhuatv.site,Emby
+DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 
 # > 暂不可用
