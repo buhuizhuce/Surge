@@ -71,7 +71,7 @@ DOMAIN,dyy.dawanqukun.top,Emby
 DOMAIN,emby.tnx.one,Emby
 # > 探花TV
 DOMAIN,tanhuatv.site,Emby
-IP-CIDR,152.53.67.239/32,Emby
+IP-CIDR,152.53.67.239/32,Emby,no-resolve
 
 # > 暂不可用
 # > pornemby
