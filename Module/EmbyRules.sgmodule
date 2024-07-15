@@ -44,9 +44,7 @@ DOMAIN,misty.cx,Emby
 DOMAIN,emby-us-v4.mius.uk,Emby
 DOMAIN,emby-fr-v6.mius.uk,Emby
 # > apop
-DOMAIN,api.apopcloud.me,Emby
 DOMAIN,emby.apopcloud.com,Emby
-DOMAIN,portal.apopcloud.com,Emby
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
@@ -59,17 +57,19 @@ DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby3.mcjoker.xyz,Emby
 DOMAIN,jz.mcjoker.xyz,DIRECT
 # > 江湖
-DOMAIN,film.reddust.link,Emby
-DOMAIN,jh.reddust.link,Emby
+DOMAIN,jh.happyav.eu.org,Emby
+#DOMAIN,film.reddust.link,Emby
+#DOMAIN,jh.reddust.link,Emby
 # > Heisi
 DOMAIN,i109.com,DIRECT
-DOMAIN,heisi.nekobox.best,Emby
 DOMAIN,h1.i109.com,Emby
 DOMAIN,h2.i109.com,Emby
+#DOMAIN,heisi.nekobox.best,Emby
 # > 大湾区
 DOMAIN,dyy.dawanqukun.top,Emby
 # > 天南小筑
-DOMAIN,emby.tnx.one,Emby
+#DOMAIN,emby.tnx.one,Emby
+DOMAIN,nanflix.net,Emby
 # > 探花TV
 DOMAIN,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
