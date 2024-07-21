@@ -1,14 +1,17 @@
 #!name=🔗 Sub面板
 #!desc=自用多机场订阅信息展示
 #!category=🏄🏻‍♂️ Frank
-#!arguments=⓵-AIRPORT:+,⓵\nAIRPORT_NAME:机场1,URL1:机场1订阅,RESET_DAY1:1,ICON1:shippingbox.circle.fill,COLOR1:#81AC7A,UPDATE_INTERVAL1:1800,⓶-AIRPORT:+,⓶-AIRPORT_NAME:机场2,URL2:机场2订阅,RESET_DAY2:1,ICON2:shippingbox.circle.fill,COLOR2:#81AC7A,UPDATE_INTERVAL2:1800
+#!arguments=
+1️⃣:🛸🛫,AIRPORT_NAME1:机场1,URL1:机场1订阅,RESET_DAY1:1,ICON1:shippingbox.circle.fill,COLOR1:#81AC7A,UPDATE_INTERVAL1:1800,
+2️⃣:∨,AIRPORT_NAME2:机场2,URL2:机场2订阅,RESET_DAY2:1,ICON2:shippingbox.circle.fill,COLOR2:#81AC7A,UPDATE_INTERVAL2:1800
+
 #!arguments-desc=[参数设置]\n1. AIRPORT_NAME: 自定义机场名称,用于在使用多个机场信息模块时区分它们,如不设置则默认显示"我的机场1";\n2. URL: 机场订阅链接,需要URL编码;\n3. RESET_DAY: 流量每月重置的日期,如30号就写30,不设置则默认1号为流量重置日,设置为0则不显示流量重置日,仅显示到期日期;\n4. ICON: 自定义面板图标,需为有效的SFSymbolName,如不设置则默认为"shippingbox.circle.fill";\n5. COLOR: 自定义图标颜色,需为颜色的HEX编码,如不设置则默认为"#81AC7A";\n6. UPDATE_INTERVAL: 自定义面板刷新间隔时间,单位为秒,如不设置则默认每1800秒刷新一次;
 
 [Panel]
-Panel = script-name={{{⓵-AIRPORT_NAME}}},update-interval={{{UPDATE_INTERVAL1}}}
-Panel = script-name={{{⓶-AIRPORT_NAME}}},update-interval={{{UPDATE_INTERVAL2}}}
+Panel = script-name={{{AIRPORT_NAME1}}},update-interval={{{UPDATE_INTERVAL1}}}
+Panel = script-name={{{AIRPORT_NAME2}}},update-interval={{{UPDATE_INTERVAL2}}}
 
 
 [Script]
-{{{⓵AIRPORT_NAME}}} = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/sub_info_panel.js,script-update-interval=0,argument=url={{{URL1}}}&reset_day={{{RESET_DAY1}}}&title={{{⓵AIRPORT_NAME}}}&icon={{{ICON1}}}&color={{{COLOR1}}}
-{{{⓶AIRPORT_NAME}}} = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/sub_info_panel.js,script-update-interval=0,argument=url={{{URL2}}}&reset_day={{{RESET_DAY2}}}&title={{{⓶AIRPORT_NAME}}}&icon={{{ICON2}}}&color={{{COLOR2}}}
+{{{AIRPORT_NAME1}}} = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/sub_info_panel.js,script-update-interval=0,argument=url={{{URL1}}}&reset_day={{{RESET_DAY1}}}&title={{{AIRPORT_NAME1}}}&icon={{{ICON1}}}&color={{{COLOR1}}}
+{{{AIRPORT_NAME1}}} = type=generic,timeout=15,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/sub_info_panel.js,script-update-interval=0,argument=url={{{URL2}}}&reset_day={{{RESET_DAY2}}}&title={{{AIRPORT_NAME2}}}&icon={{{ICON2}}}&color={{{COLOR2}}}
