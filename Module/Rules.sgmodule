@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,pokeryun.link,Proxy
 DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
 # PocketCasts
 DOMAIN-KEYWORD,pocketcasts,香港-HK
+DOMAIN-KEYWORD,xiaoyuzhoufm,DIRECT
+DOMAIN,media.xyzcdn.net,DIRECT
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
