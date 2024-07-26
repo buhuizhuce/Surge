@@ -95,6 +95,8 @@ DOMAIN-SUFFIX,meta.appinn.net,DIRECT
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
 # 阿里云
 DOMAIN-SUFFIX,aliyundrive.net,DIRECT
+# 即刻
+DOMAIN-SUFFIX,jellow.site,DIRECT
 # 其他
 DOMAIN-SUFFIX,ipinfo.io,Proxy
 DOMAIN-SUFFIX,openexchangerates.org,Proxy
