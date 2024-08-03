@@ -1,7 +1,7 @@
 #!name=🎞 EmbyRules
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
-#!arguments=卷毛鼠Policy:Emby,Peach Policy:香港-HK,cc Policy:日本-JP
+#!arguments=卷毛鼠Policy:日本-JP,Peach Policy:香港-HK,cc Policy:日本-JP
 #!arguments-desc=Emby服策略组选择，建议Emby、香港-HK、日本-JP、DIRECT。
 
 [Rule]
@@ -41,8 +41,8 @@ DOMAIN,emby.bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
 # > 野兽
-DOMAIN,emby-us-v4.mius.uk,Emby
-DOMAIN,emby-fr-v6.mius.uk,Emby
+DOMAIN,emby-micax-ca-v2.mius.uk,Emby
+DOMAIN,emby-mica-us-v1.mius.uk,Emby
 # > apop
 DOMAIN,emby.apopcloud.com,Emby
 # > 飞跃彩虹
@@ -56,10 +56,6 @@ DOMAIN,cf.bili.rip,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 DOMAIN,jz.mcjoker.xyz,DIRECT
-# > 江湖
-DOMAIN,jh.happyav.eu.org,Emby
-#DOMAIN,film.reddust.link,Emby
-#DOMAIN,jh.reddust.link,Emby
 # > Heisi
 DOMAIN,i109.com,DIRECT
 DOMAIN,h1.i109.com,Emby
@@ -84,6 +80,10 @@ DOMAIN,Emby.agon.cf,Emby
 DOMAIN,gy.embyvip.org,DIRECT
 # > MICU
 DOMAIN,tv.micu.hk,DIRECT
+# > 江湖
+DOMAIN,jh.happyav.eu.org,Emby
+#DOMAIN,film.reddust.link,Emby
+#DOMAIN,jh.reddust.link,Emby
 
 
 
