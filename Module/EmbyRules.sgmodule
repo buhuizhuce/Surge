@@ -70,6 +70,10 @@ DOMAIN,nanflix.net,Emby
 DOMAIN,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
+# > 云海互联
+DOMAIN,sm.oceancloud.asia,DIRECT
+
+
 
 # > 暂不可用
 # > pornemby
