@@ -72,20 +72,21 @@ DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 # > 云海互联
 DOMAIN,sm.oceancloud.asia,DIRECT
-
-
-
-# > 暂不可用
 # > pornemby
 DOMAIN,pornemby.club,Emby
+
+
+
+# > 不可用
+
 # > 私人影院
-DOMAIN,Emby.agon.cf,Emby
+#DOMAIN,Emby.agon.cf,Emby
 # > 威威
-DOMAIN,gy.embyvip.org,DIRECT
+#DOMAIN,gy.embyvip.org,DIRECT
 # > MICU
-DOMAIN,tv.micu.hk,DIRECT
+#DOMAIN,tv.micu.hk,DIRECT
 # > 江湖
-DOMAIN,jh.happyav.eu.org,Emby
+#DOMAIN,jh.happyav.eu.org,Emby
 #DOMAIN,film.reddust.link,Emby
 #DOMAIN,jh.reddust.link,Emby
 
