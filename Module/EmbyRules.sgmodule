@@ -67,7 +67,7 @@ DOMAIN,dyy.dawanqukun.top,Emby
 #DOMAIN,emby.tnx.one,Emby
 DOMAIN,nanflix.net,Emby
 # > 探花TV
-DOMAIN,tanhuatv.site,Emby
+DOMAIN,www.tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 # > 云海互联
