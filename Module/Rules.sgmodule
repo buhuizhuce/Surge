@@ -102,6 +102,9 @@ DOMAIN-SUFFIX,jellow.site,DIRECT
 # 中通快递
 DOMAIN-SUFFIX,zto.com,DIRECT
 DOMAIN-SUFFIX,ztomember.com,DIRECT
+# 中石油
+DOMAIN-SUFFIX,kunlunjyk.com,DIRECT
+
 # 其他
 DOMAIN-SUFFIX,ipinfo.io,Proxy
 DOMAIN-SUFFIX,openexchangerates.org,Proxy
