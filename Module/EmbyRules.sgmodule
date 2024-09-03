@@ -20,10 +20,11 @@ DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf.xmsl.org,Emby
 DOMAIN,cf.emby.moe,Emby
 # > peach
-DOMAIN,embymv.tk,{{{Peach Policy}}}  //香港&日本
+DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 # > cc
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
+DOMAIN,cc.embycc.link,{{{cc Policy}}}  
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,Emby
 # > lyrebird
@@ -32,8 +33,6 @@ DOMAIN,cdn.lyrebirdemby.com,Emby
 DOMAIN,free.emby.eu.org,Emby    //DIRECT
 # > TreeDiagram
 DOMAIN,789.123456.al,Emby
-# > NMEmby
-DOMAIN,film.hovervan.org,DIRECT
 # > 放映厅
 DOMAIN,emby.9191001.xyz,DIRECT
 # > NyaMedia
@@ -43,8 +42,10 @@ DOMAIN,misty.cx,Emby
 # > 野兽
 DOMAIN,emby-micax-ca-v2.mius.uk,Emby
 DOMAIN,emby-mica-us-v1.mius.uk,Emby
+DOMAIN,ph.16bit.cfd,Emby
 # > apop
 DOMAIN,emby.apopcloud.com,Emby
+DOMAIN,sg.886318.xyz,Emby
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
@@ -53,18 +54,10 @@ DOMAIN,embyplus.org,DIRECT
 # > hxd
 DOMAIN,hxd.as174.com,Emby
 DOMAIN,cf.bili.rip,Emby
+DOMAIN,emby.as174.com,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
-DOMAIN,jz.mcjoker.xyz,DIRECT
-# > Heisi
-DOMAIN,i109.com,DIRECT
-DOMAIN,h1.i109.com,Emby
-DOMAIN,h2.i109.com,Emby
-#DOMAIN,heisi.nekobox.best,Emby
-# > 大湾区
-DOMAIN,dyy.dawanqukun.top,Emby
 # > 天南小筑
-#DOMAIN,emby.tnx.one,Emby
 DOMAIN,nanflix.net,Emby
 # > 探花TV
 DOMAIN,www.tanhuatv.site,Emby
@@ -89,8 +82,13 @@ DOMAIN,pornemby.club,Emby
 #DOMAIN,jh.happyav.eu.org,Emby
 #DOMAIN,film.reddust.link,Emby
 #DOMAIN,jh.reddust.link,Emby
-
-
+# > Heisi
+DOMAIN,i109.com,DIRECT
+DOMAIN,h1.i109.com,Emby
+DOMAIN,h2.i109.com,Emby
+#DOMAIN,heisi.nekobox.best,Emby
+# > NMEmby
+DOMAIN,film.hovervan.org,DIRECT
 
 
 
