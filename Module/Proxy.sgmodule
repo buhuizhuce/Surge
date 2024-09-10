@@ -2,6 +2,10 @@
 #!desc=自用Proxy规则合集
 #!category=🏄🏻‍♂️ Frank
 
+[Rule]
+
+# 八达通
+DOMAIN-KEYWORD,octopus,香港-HK
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
 # 大湾区
@@ -10,14 +14,12 @@ DOMAIN,dawanqukun.top,Proxy
 DOMAIN-SUFFIX,pokeryun.link,Proxy
 DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
 # PocketCasts
-DOMAIN-KEYWORD,pocketcasts,香港-HK
+DOMAIN-KEYWORD,pocketcasts,Proxy
 # MoneyWiz
 DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
 DOMAIN-SUFFIX,clearbit.com,Proxy
 DOMAIN-SUFFIX,faviconkit.com,Proxy
-# 八达通
-DOMAIN-KEYWORD,octopus,香港-HK
 # WISE
 DOMAIN-SUFFIX,wise.com,Proxy
 DOMAIN-SUFFIX,braze.eu,Proxy
