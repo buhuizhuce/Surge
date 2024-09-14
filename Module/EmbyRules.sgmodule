@@ -55,16 +55,18 @@ DOMAIN,embyplus.org,DIRECT
 DOMAIN,hxd.as174.com,Emby
 DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.com,Emby
-# > 叔服
-DOMAIN,emby3.mcjoker.xyz,Emby
+# > 云海互联
+DOMAIN,sm.oceancloud.asia,DIRECT
 # > 天南小筑
 DOMAIN,nanflix.net,Emby
+# > 见手青
+DOMAIN,jsq.mooguu.top,Emby
+# > 叔服
+DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
 DOMAIN,www.tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
-# > 云海互联
-DOMAIN,sm.oceancloud.asia,DIRECT
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
