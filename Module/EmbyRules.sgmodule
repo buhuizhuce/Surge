@@ -46,6 +46,8 @@ DOMAIN,ph.16bit.cfd,Emby
 # > apop
 DOMAIN,emby.apopcloud.com,Emby
 DOMAIN,sg.886318.xyz,Emby
+DOMAIN,us.886318.xyz,Emby
+DOMAIN,cn.apopcloud.live,DIRECT
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
