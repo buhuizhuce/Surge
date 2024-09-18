@@ -20,6 +20,12 @@ DOMAIN-SUFFIX,wiz.money,Proxy
 DOMAIN-SUFFIX,syncbits.com,Proxy
 DOMAIN-SUFFIX,clearbit.com,Proxy
 DOMAIN-SUFFIX,faviconkit.com,Proxy
+# OCBC
+DOMAIN-KEYWORD,ocbc,Proxy
+DOMAIN-SUFFIX,ocbc.com,Proxy
+DOMAIN-SUFFIX,omtrdc.net,Proxy
+DOMAIN-SUFFIX,everesttech.net,Proxy
+
 # WISE
 DOMAIN-SUFFIX,wise.com,Proxy
 DOMAIN-SUFFIX,braze.eu,Proxy
