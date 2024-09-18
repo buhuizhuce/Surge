@@ -45,7 +45,7 @@ DOMAIN,emby-mica-us-v1.mius.uk,Emby
 DOMAIN,ph.16bit.cfd,Emby
 # > apop
 DOMAIN,emby.apopcloud.live,Emby
-DOMAIN,hk.apopcloud.live,Direct
+DOMAIN,hk.apopcloud.live,DIRECT
 DOMAIN,us.886318.xyz,Emby
 DOMAIN,132.226.20.31,DIRECT
 # > 飞跃彩虹
