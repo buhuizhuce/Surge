@@ -44,10 +44,10 @@ DOMAIN,emby-micax-ca-v2.mius.uk,Emby
 DOMAIN,emby-mica-us-v1.mius.uk,Emby
 DOMAIN,ph.16bit.cfd,Emby
 # > apop
-DOMAIN,emby.apopcloud.com,Emby
-DOMAIN,sg.886318.xyz,Emby
+DOMAIN,emby.apopcloud.live,Emby
+DOMAIN,hk.apopcloud.live,Direct
 DOMAIN,us.886318.xyz,Emby
-DOMAIN,cn.apopcloud.live,DIRECT
+DOMAIN,132.226.20.31,DIRECT
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
