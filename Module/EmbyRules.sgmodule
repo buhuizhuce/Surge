@@ -67,6 +67,9 @@ DOMAIN,jsq.mooguu.top,Emby
 DOMAIN,emby.lilyya.xyz,DIRECT
 # > hka
 DOMAIN,hka-emby.aliz.work,Emby
+# > AlphaTV
+DOMAIN,oversea.alphatvapp.top,Emby
+
 
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
