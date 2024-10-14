@@ -40,14 +40,16 @@ DOMAIN,emby.bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
 # > 野兽
-DOMAIN,emby-micax-ca-v2.mius.uk,Emby
-DOMAIN,emby-mica-us-v1.mius.uk,Emby
-DOMAIN,ph.16bit.cfd,Emby
+DOMAIN,emby-micax-ca-v2.mius.uk,Emby         //加拿大
+DOMAIN,emby-mica-us-v1.mius.uk,Emby          //美国
+DOMAIN,sadsafsfsafsadas.mius.uk,Emby         //新加坡
+DOMAIN,emby-mica-hk-v4.mius.uk,Emby          //香港
+DOMAIN,emby-mica-yxvm-hk-v4.mius.uk,Emby     //香港
 # > apop
 DOMAIN,emby.apopcloud.live,Emby
 DOMAIN,hk.apopcloud.live,DIRECT
-DOMAIN,us.886318.xyz,Emby
-DOMAIN,132.226.20.31,DIRECT
+DOMAIN,shouer2.209966.xyz,Emby
+DOMAIN,shouer1.209966.xyz,Emby
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
@@ -56,7 +58,6 @@ DOMAIN,embyplus.org,DIRECT
 # > hxd
 DOMAIN,hxd.as174.com,Emby
 DOMAIN,cf.bili.rip,Emby
-DOMAIN,emby.as174.com,Emby
 # > 云海互联
 DOMAIN,sm.oceancloud.asia,DIRECT
 # > 天南小筑
@@ -65,6 +66,9 @@ DOMAIN,nanflix.net,Emby
 DOMAIN,jsq.mooguu.top,Emby
 # > Lily
 DOMAIN,emby.lilyya.xyz,DIRECT
+DOMAIN,cdnemby.lilyya.xyz,DIRECT
+DOMAIN,cfemby.lilyya.xyz,Emby
+DOMAIN,embyhk.lilyya.xyz,DIRECT
 # > hka
 DOMAIN,hka-emby.aliz.work,Emby
 # > AlphaTV
