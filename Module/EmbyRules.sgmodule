@@ -90,14 +90,13 @@ DOMAIN,ju.sfcj.org,Emby
 DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
-
-
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
 DOMAIN,www.tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
+IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
