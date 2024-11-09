@@ -2,7 +2,7 @@
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
 #!arguments=卷毛鼠Policy:日本-JP,Peach Policy:香港-HK,cc Policy:日本-JP
-#!arguments-desc=Emby服策略组选择，建议Emby、香港-HK、日本-JP、DIRECT。
+#!arguments-desc=Emby服策略组选择。
 
 [Rule]
 # > Fileball
@@ -20,7 +20,6 @@ DOMAIN,cf1.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
-DOMAIN,cf.emby.moe,Emby
 # > peach
 DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
@@ -29,13 +28,8 @@ DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 DOMAIN,cc.embycc.link,{{{cc Policy}}}  
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,Emby
-DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk,Emby
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
-# > 星光
-DOMAIN,free.emby.eu.org,Emby    //DIRECT
-# > TreeDiagram
-DOMAIN,789.123456.al,Emby
 # > 放映厅
 DOMAIN,emby.9191001.xyz,Emby
 # > NyaMedia
@@ -45,14 +39,10 @@ DOMAIN,misty.cx,Emby
 # > 野兽
 DOMAIN,emby-micax-ca-v2.mius.uk,Emby         //加拿大
 DOMAIN,emby-mica-us-v1.mius.uk,Emby          //美国
-DOMAIN,sadsafsfsafsadas.mius.uk,Emby         //新加坡
 DOMAIN,emby-mica-hk-v4.mius.uk,Emby          //香港
 DOMAIN,emby-mica-yxvm-hk-v4.mius.uk,Emby     //香港
 # > apop
 DOMAIN,emby.apopcloud.live,Emby
-DOMAIN,hk.apopcloud.live,DIRECT
-DOMAIN,shouer2.209966.xyz,Emby
-DOMAIN,shouer1.209966.xyz,Emby
 # > 飞跃彩虹
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
@@ -69,14 +59,16 @@ DOMAIN,nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.top,Emby
 # > Lily
-DOMAIN,emby.lilyya.xyz,DIRECT
-DOMAIN,cdnemby.lilyya.xyz,DIRECT
-DOMAIN,cfemby.lilyya.xyz,Emby
-DOMAIN,embyhk.lilyya.xyz,DIRECT
+DOMAIN,emby.lilyya.xyz,DIRECT       //海外CF
+DOMAIN,cdnemby.lilyya.xyz,DIRECT    //大陆直连
+DOMAIN,cfemby.lilyya.xyz,Emby    //海外推荐
+DOMAIN,embyhk.lilyya.xyz,DIRECT    //大陆直连
 # > hka
 DOMAIN,hka-emby.aliz.work,Emby
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
+IP-CIDR,69.10.32.214/32,Emby,no-resolve
+IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
 # > AWA
@@ -121,6 +113,10 @@ DOMAIN,h2.i109.com,Emby
 #DOMAIN,heisi.nekobox.best,Emby
 # > NMEmby
 DOMAIN,film.hovervan.org,DIRECT
+# > 星光
+DOMAIN,free.emby.eu.org,Emby    //DIRECT
+# > TreeDiagram
+DOMAIN,789.123456.al,Emby
 
 
 
