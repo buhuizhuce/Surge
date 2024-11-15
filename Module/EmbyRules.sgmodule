@@ -1,7 +1,7 @@
 #!name=🎞 EmbyRules
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
-#!arguments=卷毛鼠Policy:日本-JP,Peach Policy:香港-HK,cc Policy:日本-JP
+#!arguments=卷毛鼠Policy:日本-JP,Peach Policy:香港-HK,cc Policy:日本-JP,StarCat Policy:Emby
 #!arguments-desc=Emby服策略组选择。
 
 [Rule]
@@ -27,7 +27,7 @@ IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 DOMAIN,cc.embycc.link,{{{cc Policy}}}  
 # > StarCat
-DOMAIN,flare.catlinks.co.uk,Emby
+DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
 # > 放映厅
