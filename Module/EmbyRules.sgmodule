@@ -57,7 +57,7 @@ DOMAIN,sm.oceancloud.asia,Emby
 # > 天南小筑
 DOMAIN,nanflix.net,Emby
 # > 见手青
-DOMAIN,jsq.mooguu.top,Emby
+DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
 DOMAIN,emby.lilyya.xyz,DIRECT       //海外CF
 DOMAIN,cdnemby.lilyya.xyz,DIRECT    //大陆直连
@@ -67,7 +67,7 @@ DOMAIN,embyhk.lilyya.xyz,DIRECT    //大陆直连
 DOMAIN,hka-emby.aliz.work,Emby
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
-IP-CIDR,69.10.32.214/32,Emby,no-resolve
+IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
@@ -87,6 +87,7 @@ DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
 DOMAIN,www.tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
+DOMAIN,nezha.ocdlive.com,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
