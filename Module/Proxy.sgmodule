@@ -7,6 +7,8 @@
 # eM Client
 DOMAIN-SUFFIX,emclient.com,Proxy
 DOMAIN-KEYWORD,emclient,Proxy
+# Follow 
+DOMAIN-SUFFIX,api.follow.is,Proxy
 # 八达通
 DOMAIN-KEYWORD,octopus,香港-HK
 # 黄页
