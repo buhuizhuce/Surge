@@ -38,43 +38,41 @@ DOMAIN,emby.bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
 # > 野兽
-DOMAIN,emby-micax-ca-v2.mius.uk,Emby         //加拿大
-DOMAIN,emby-mica-us-v1.mius.uk,Emby          //美国
+DOMAIN,emby-micax-ca-v2.mius.uk,Emby         //主线路 加拿大
+DOMAIN,emby-mica-us-v1.mius.uk,Emby          //主线路 美国
 DOMAIN,emby-mica-hk-v4.mius.uk,Emby          //香港
 DOMAIN,emby-mica-yxvm-hk-v4.mius.uk,Emby     //香港
 DOMAIN,emby-mica-hk3-v4.mius.uk,Emby          //香港
-# > apop
-DOMAIN,emby.apopcloud.live,Emby
-# > 飞跃彩虹
-DOMAIN,581658.best,Emby
-DOMAIN,7777777.buzz,DIRECT
+
 # > 纸片人
 DOMAIN,embyplus.org,DIRECT
 # > hxd
-DOMAIN,hxd.as174.com,Emby
+DOMAIN,hxd.as174.de,Emby
 DOMAIN,cf.bili.rip,Emby
-DOMAIN,emby.as174.com,Emby
-# > 云海互联
-DOMAIN,sm.oceancloud.asia,Emby
+DOMAIN,emby.as174.de,Emby
 # > 天南小筑
 DOMAIN,nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
-DOMAIN,emby.lilyya.xyz,DIRECT       //海外CF
-DOMAIN,cdnemby.lilyya.xyz,DIRECT    //大陆直连
+DOMAIN,emby.lilyya.xyz,Emby    //海外线路
 DOMAIN,cfemby.lilyya.xyz,Emby    //海外推荐
-DOMAIN,embyhk.lilyya.xyz,DIRECT    //大陆直连
+DOMAIN,cemby.lilyya.xyz,DIRECT    //大陆直连
 # > hka
 DOMAIN,hka-emby.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
+IP-CIDR,107.181.238.190,Emby,no-resolve
 IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
+# > 飞跃彩虹
+DOMAIN,581658.best,Emby
+DOMAIN,7777777.buzz,DIRECT
+DOMAIN,cdn.7777777.buzz,DIRECT
 # > AWA
 DOMAIN,emby.awatv.de,Emby
 # > Levilde Luminia
@@ -89,7 +87,7 @@ DOMAIN,v6.sfcj.org,DIRECT
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
-DOMAIN,www.tanhuatv.site,Emby
+DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
 DOMAIN,nezha.ocdlive.com,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
@@ -122,6 +120,8 @@ DOMAIN,film.hovervan.org,DIRECT
 DOMAIN,free.emby.eu.org,Emby    //DIRECT
 # > TreeDiagram
 DOMAIN,789.123456.al,Emby
+# > apop
+DOMAIN,emby.apopcloud.live,Emby
 
 
 
