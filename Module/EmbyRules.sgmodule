@@ -50,6 +50,7 @@ DOMAIN,embyplus.org,DIRECT
 DOMAIN,hxd.as174.de,Emby
 DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.de,Emby
+IP-CIDR,91.103.123.28/32,Emby,no-resolve
 # > 天南小筑
 DOMAIN,nanflix.net,Emby
 # > 见手青
@@ -64,7 +65,7 @@ DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
-IP-CIDR,107.181.238.190,Emby,no-resolve
+IP-CIDR,107.181.238.190/32,Emby,no-resolve
 IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 飞跃银河
