@@ -13,10 +13,14 @@ DOMAIN-SUFFIX,api.follow.is,Proxy
 DOMAIN-KEYWORD,octopus,香港-HK
 # 黄页
 DOMAIN-SUFFIX,vcards.metowolf.com,Proxy
-# 大湾区
-DOMAIN,dawanqukun.top,Proxy
+# Ytoo
+DOMAIN-SUFFIX,api.stentvessel.top,Proxy
+DOMAIN-SUFFIX,to-ytoo.xyz,Proxy
+DOMAIN-SUFFIX,y-too.com,Proxy
 # Kuromis 
 DOMAIN,kuromisubs.shop,Proxy
+# 大湾区
+DOMAIN,dawanqukun.top,Proxy
 # 扑克云
 DOMAIN-SUFFIX,pokeryun.link,Proxy
 DOMAIN-SUFFIX,huawei-cloud.shop,Proxy
