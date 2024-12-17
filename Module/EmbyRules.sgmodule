@@ -29,6 +29,7 @@ DOMAIN,cc.embycc.link,{{{cc Policy}}}
 DOMAIN,dl.carryz.net,{{{cc Policy}}}  
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
+DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby
 # > 放映厅
