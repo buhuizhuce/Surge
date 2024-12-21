@@ -77,6 +77,7 @@ DOMAIN,7777777.buzz,DIRECT
 DOMAIN,cdn.7777777.buzz,DIRECT
 # > AWA
 DOMAIN,emby.awatv.de,Emby
+DOMAIN,01.awatv.de,Emby
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
 # > 非越
@@ -86,6 +87,8 @@ DOMAIN,ju.sfcj.org,Emby
 DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
+# > 起点站
+DOMAIN,tdck.fun,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
