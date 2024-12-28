@@ -89,6 +89,8 @@ DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
 # > 起点站
 DOMAIN,tdck.fun,Emby
+# > AuroraMedia
+DOMAIN,abc.auroramedia.vip,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
