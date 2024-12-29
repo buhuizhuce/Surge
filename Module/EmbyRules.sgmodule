@@ -54,6 +54,7 @@ DOMAIN,emby.as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
 # > 天南小筑
 DOMAIN,nanflix.net,Emby
+DOMAIN,us.nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
@@ -78,6 +79,7 @@ DOMAIN,cdn.7777777.buzz,DIRECT
 # > AWA
 DOMAIN,emby.awatv.de,Emby
 DOMAIN,01.awatv.de,Emby
+DOMAIN,movie.emby.blog,DIRECT
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
 # > 非越
