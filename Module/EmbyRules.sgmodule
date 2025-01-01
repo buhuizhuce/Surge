@@ -93,6 +93,8 @@ DOMAIN,v6.sfcj.org,DIRECT
 DOMAIN,tdck.fun,Emby
 # > AuroraMedia
 DOMAIN,abc.auroramedia.vip,Emby
+# > SaturDay.Lite
+DOMAIN,lite.saturday.video,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
