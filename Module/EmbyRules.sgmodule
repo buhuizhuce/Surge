@@ -101,6 +101,7 @@ DOMAIN,lite.saturday.video,Emby
 # > Nebula Media
 DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
+DOMAIN-SUFFIX,nebula-media.org,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
