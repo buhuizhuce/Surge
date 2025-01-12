@@ -1,7 +1,7 @@
 #!name=🎞 EmbyRules
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
-#!arguments=卷毛鼠Policy:日本-JP,Peach Policy:香港-HK,cc Policy:日本-JP,StarCat Policy:Emby
+#!arguments=卷毛鼠Policy:狮城-SG,Peach Policy:香港-HK,cc Policy:日本-JP,StarCat Policy:Emby
 #!arguments-desc=Emby服策略组选择。
 
 [Rule]
@@ -14,8 +14,8 @@ DOMAIN,pub3.emby.wtf,Emby
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
 DOMAIN,vip.charontv.com,Emby
-# > 卷毛鼠
-DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}
+# > 卷毛鼠  
+DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}   //禁大陆&香港&日本&美国
 DOMAIN,cf1.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,mini.jmsuper.com,{{{卷毛鼠Policy}}}
@@ -27,12 +27,13 @@ IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 # > cc
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 DOMAIN,cc.embycc.link,{{{cc Policy}}}  
-DOMAIN,dl.carryz.net,{{{cc Policy}}}  
+DOMAIN-SUFFIX,carryz.net,{{{cc Policy}}}  
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
 DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
 # > lyrebird
-DOMAIN,cdn.lyrebirdemby.com,Emby
+DOMAIN,cdn.lyrebirdemby.com,Emby   //香港
+DOMAIN,inside.lyrebirdemby.com,Emby   //机场线路
 # > 放映厅
 DOMAIN,emby.9191001.xyz,Emby
 # > NyaMedia
@@ -45,7 +46,6 @@ DOMAIN,emby-mica-us-v1.mius.uk,Emby          //主线路 美国
 DOMAIN,emby-mica-hk-v4.mius.uk,Emby          //香港
 DOMAIN,emby-mica-yxvm-hk-v4.mius.uk,Emby     //香港
 DOMAIN,emby-mica-hk3-v4.mius.uk,Emby          //香港
-
 # > 纸片人
 DOMAIN,embyplus.org,DIRECT
 # > hxd
@@ -54,20 +54,23 @@ DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
 # > 天南小筑
-DOMAIN,nanflix.net,Emby
 DOMAIN,us.nanflix.net,Emby
+DOMAIN-SUFFIX,nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
 DOMAIN,emby.lilyya.xyz,Emby    //海外线路
 DOMAIN,cfemby.lilyya.xyz,Emby    //海外推荐
-DOMAIN,cemby.lilyya.xyz,DIRECT    //大陆直连
+DOMAIN,cemby.lilyya.xyz,DIRECT    //大陆直连（香港 融合CN2）
+DOMAIN,usemby.lilyya.xyz,DIRECT    //大陆CDN（美国韩国甲骨文）
 # > hka
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
+DOMAIN,ok.alphatvapp.top:57526,Emby
+DOMAIN,ok2.alphatvapp.top:57526,Emby
 IP-CIDR,107.181.238.190/32,Emby,no-resolve
 IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
@@ -77,14 +80,16 @@ DOMAIN,yhemby.top,Emby
 DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
 DOMAIN,cdn.7777777.buzz,DIRECT
+IP-CIDR,193.122.114.13/32,Emby,no-resolve
 # > AWA
-DOMAIN,emby.awatv.de,Emby
+DOMAIN,emby.awatv.de,Emby  //禁infuse、vidhub、网页
 DOMAIN,01.awatv.de,Emby
 DOMAIN,movie.emby.blog,DIRECT
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
 DOMAIN,lumia.clun.top,Emby
 DOMAIN,lum.clun.top,Emby
+DOMAIN,emby.clun.top,Emby
 # > 非越
 DOMAIN,z.sfcj.org,DIRECT
 DOMAIN,jg.sfcj.org,Emby
@@ -92,10 +97,6 @@ DOMAIN,ju.sfcj.org,Emby
 DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
-# > 起点站
-DOMAIN,tdck.fun,Emby
-# > AuroraMedia
-DOMAIN,abc.auroramedia.vip,Emby
 # > SaturDay.Lite
 DOMAIN,lite.saturday.video,Emby
 # > Nebula Media
@@ -115,7 +116,11 @@ DOMAIN,pornemby.club,Emby
 
 
 
-# > 不可用
+### > 不可用
+# > 起点站
+DOMAIN,tdck.fun,Emby
+# > AuroraMedia
+DOMAIN,abc.auroramedia.vip,Emby
 
 # > 私人影院
 #DOMAIN,Emby.agon.cf,Emby
