@@ -21,6 +21,7 @@ DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,mini.jmsuper.com,{{{卷毛鼠Policy}}}
 # > Loser
 DOMAIN,cf.xmsl.org,Emby
+DOMAIN-SUFFIX,xmsl.org,Emby
 # > peach
 DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
