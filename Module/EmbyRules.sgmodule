@@ -68,13 +68,6 @@ DOMAIN,usemby.lilyya.xyz,DIRECT    //大陆CDN（美国韩国甲骨文）
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
-# > AlphaTV
-DOMAIN,oversea.alphatvapp.top,Emby
-DOMAIN,ok.alphatvapp.top:57526,Emby
-DOMAIN,ok2.alphatvapp.top:57526,Emby
-IP-CIDR,107.181.238.190/32,Emby,no-resolve
-IP-CIDR,104.243.41.35/32,Emby,no-resolve
-IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
 # > 飞跃彩虹
@@ -82,10 +75,6 @@ DOMAIN,581658.best,Emby
 DOMAIN,7777777.buzz,DIRECT
 DOMAIN,cdn.7777777.buzz,DIRECT
 IP-CIDR,193.122.114.13/32,Emby,no-resolve
-# > AWA
-DOMAIN,emby.awatv.de,Emby  //禁infuse、vidhub、网页
-DOMAIN,01.awatv.de,Emby
-DOMAIN,movie.emby.blog,DIRECT
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
 DOMAIN,lumia.clun.top,Emby
@@ -118,11 +107,21 @@ DOMAIN,pornemby.club,Emby
 
 
 ### > 不可用
+# > AWA
+DOMAIN,emby.awatv.de,Emby  //禁infuse、vidhub、网页
+DOMAIN,01.awatv.de,Emby
+DOMAIN,movie.emby.blog,DIRECT
+# > AlphaTV
+DOMAIN,oversea.alphatvapp.top,Emby
+DOMAIN,ok.alphatvapp.top:57526,Emby
+DOMAIN,ok2.alphatvapp.top:57526,Emby
+IP-CIDR,107.181.238.190/32,Emby,no-resolve
+IP-CIDR,104.243.41.35/32,Emby,no-resolve
+IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > 起点站
 DOMAIN,tdck.fun,Emby
 # > AuroraMedia
 DOMAIN,abc.auroramedia.vip,Emby
-
 # > 私人影院
 #DOMAIN,Emby.agon.cf,Emby
 # > 威威
