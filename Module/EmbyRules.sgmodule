@@ -93,6 +93,12 @@ DOMAIN,lite.saturday.video,Emby
 DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
+# > 墨云阁
+DOMAIN,a.mobaiemby.site,Emby
+DOMAIN,b.mobaiemby.site,Emby
+DOMAIN,fast.vfing.de,Emby
+# > jingzhe
+https://emby.jingzhe.pro,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
