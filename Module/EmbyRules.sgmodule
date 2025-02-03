@@ -1,7 +1,7 @@
 #!name=🎞 EmbyRules
 #!desc=自用Emby服代理规则
 #!category=🏄🏻‍♂️ Frank
-#!arguments=卷毛鼠Policy:狮城-SG,Peach Policy:香港-HK,cc Policy:日本-JP,StarCat Policy:Emby
+#!arguments=卷毛鼠Policy:狮城-SG,Peach Policy:香港-HK,cc Policy:日本-JP,StarCat Policy:Emby,垃圾影音Policy:美国-US
 #!arguments-desc=Emby服策略组选择。
 
 [Rule]
@@ -20,8 +20,8 @@ DOMAIN,cf1.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,mini.jmsuper.com,{{{卷毛鼠Policy}}}
 # > Loser
-DOMAIN,cf.xmsl.org,Emby
-DOMAIN-SUFFIX,xmsl.org,Emby
+DOMAIN,cf.xmsl.org,{{{垃圾影音Policy}}}   //禁日本
+DOMAIN-SUFFIX,xmsl.org,{{{垃圾影音Policy}}}
 # > peach
 DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
