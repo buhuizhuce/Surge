@@ -109,6 +109,12 @@ DOMAIN,july-sg.vfing.de,Emby
 DOMAIN,july-us.vfing.de,Emby
 # > wenjian
 DOMAIN,emby.wenjian.de,Emby
+# > 鸽巢Dove Nest
+DOMAIN,media.doven.tv,DIRECT
+DOMAIN,mediacf.doven.tv,Emby
+DOMAIN,4837.media.doven.tv,DIRECT
+DOMAIN,9929.media.doven.tv,DIRECT
+DOMAIN,sg.aws.media.doven.tv,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
