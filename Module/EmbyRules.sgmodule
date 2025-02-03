@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby   //香港
 DOMAIN,inside.lyrebirdemby.com,Emby   //机场线路
+IP-CIDR,188.172.228.65/32,Emby,no-resolve
 # > 放映厅
 DOMAIN,emby.9191001.xyz,Emby
 # > NyaMedia
@@ -94,9 +95,9 @@ DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
 # > 墨云阁
-DOMAIN,a.mobaiemby.site,Emby
-DOMAIN,b.mobaiemby.site,Emby
-DOMAIN,fast.vfing.de,Emby
+DOMAIN,2pfdml.mobaiemby.site,Emby
+DOMAIN,sfyzn2.mobaiemby.site,Emby
+DOMAIN,emby-myg-de.vfing.de,Emby
 # > jingzhe
 DOMAIN,emby.jingzhe.pro,Emby
 # > July
@@ -105,6 +106,8 @@ DOMAIN,july.vfing.de,Emby
 DOMAIN,july-hk.vfing.de,Emby
 DOMAIN,july-sg.vfing.de,Emby
 DOMAIN,july-us.vfing.de,Emby
+# > wenjian
+DOMAIN,emby.wenjian.de,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
