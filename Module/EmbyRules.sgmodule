@@ -115,6 +115,14 @@ DOMAIN,mediacf.doven.tv,Emby
 DOMAIN,4837.media.doven.tv,DIRECT
 DOMAIN,9929.media.doven.tv,DIRECT
 DOMAIN,sg.aws.media.doven.tv,Emby
+# > MICU
+DOMAIN-SUFFIX,micu.hk,DIRECT
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
+DOMAIN,media.micu.hk,DIRECT
+#DOMAIN,media1.micu.hk,DIRECT   //香港1
+#DOMAIN,media2.micu.hk,DIRECT   //美国
+#DOMAIN,media3.micu.hk,DIRECT   //香港2
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
@@ -148,8 +156,7 @@ DOMAIN,abc.auroramedia.vip,Emby
 #DOMAIN,Emby.agon.cf,Emby
 # > 威威
 #DOMAIN,gy.embyvip.org,DIRECT
-# > MICU
-#DOMAIN,tv.micu.hk,DIRECT
+
 # > 江湖
 #DOMAIN,jh.happyav.eu.org,Emby
 #DOMAIN,film.reddust.link,Emby
