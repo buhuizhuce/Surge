@@ -61,10 +61,10 @@ DOMAIN-SUFFIX,nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
-DOMAIN,emby.lilyya.xyz,Emby    //海外线路
-DOMAIN,cfemby.lilyya.xyz,Emby    //海外推荐
-DOMAIN,cemby.lilyya.xyz,DIRECT    //大陆直连（香港 融合CN2）
-DOMAIN,usemby.lilyya.xyz,DIRECT    //大陆CDN（美国韩国甲骨文）
+DOMAIN,cf.lilyemby.my,Emby    //海外推荐
+DOMAIN,cfemby.lilyyaya.top,Emby    //海外备用
+DOMAIN,c.lilyemby.my,DIRECT    //大陆直连（香港 融合CN2）
+DOMAIN,u.lilyemby.my,DIRECT    //大陆CDN（美国甲骨文）
 # > hka
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
