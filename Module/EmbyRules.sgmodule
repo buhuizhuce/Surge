@@ -123,6 +123,8 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media1.micu.hk,DIRECT   //香港1
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
+# > 流星
+DOMAIN,emby.060618.me,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
