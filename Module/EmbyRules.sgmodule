@@ -66,6 +66,7 @@ DOMAIN,cfemby.lilyyaya.top,Emby    //海外备用
 DOMAIN,c.lilyemby.my,DIRECT    //大陆直连（香港 融合CN2）
 DOMAIN,u.lilyemby.my,DIRECT    //大陆CDN（美国甲骨文）
 # > hka
+DOMAIN,hkb-emby.aliz.work,Emby
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
