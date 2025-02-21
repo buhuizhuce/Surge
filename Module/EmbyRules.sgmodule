@@ -43,11 +43,11 @@ DOMAIN,emby.bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
 # > 野兽
-DOMAIN,emby-micax-ca-v2.mius.uk,Emby         //主线路 加拿大
-DOMAIN,emby-mica-us-v1.mius.uk,Emby          //主线路 美国
-DOMAIN,emby-mica-hk-v4.mius.uk,Emby          //香港
-DOMAIN,emby-mica-yxvm-hk-v4.mius.uk,Emby     //香港
-DOMAIN,emby-mica-hk3-v4.mius.uk,Emby          //香港
+DOMAIN,xmz2f-nkdd5-x4q9x.biliblili.uk,Emby        //主线路 US-v1
+DOMAIN,w9pns-3hd2e-7jdt3.biliblili.uk,Emby        //主线路 Ca-v2
+DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk,Emby        //香港
+DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
+DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
 # > 纸片人
 DOMAIN,embyplus.org,DIRECT
 # > hxd
