@@ -125,8 +125,9 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
 # > 流星
-DOMAIN,emby1.liustar.click,Emby
-DOMAIN,emby2.liustar.click,Emby
+DOMAIN,emby1.liustar.click,DIRECT     //主线路
+DOMAIN,embyhw1.liustar.click,Emby     //海外线路一
+DOMAIN,embyhw2.liustar.click,Emby     //海外线路二
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
