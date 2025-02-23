@@ -140,6 +140,10 @@ IP-CIDR,94.16.119.117/32,Emby,no-resolve
 DOMAIN,pornemby.club,Emby
 
 
+IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
+
+
+
 
 ### > 不可用
 # > AWA
