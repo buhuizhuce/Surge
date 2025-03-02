@@ -128,6 +128,10 @@ DOMAIN,media.micu.hk,DIRECT
 DOMAIN,emby1.liustar.click,DIRECT     //主线路
 DOMAIN,embyhw1.liustar.click,Emby     //海外线路一
 DOMAIN,embyhw2.liustar.click,Emby     //海外线路二
+# > 云上
+DOMAIN,s.outong-valve.com,Emby
+# > Douban
+DOMAIN,onatoshi.114514.quest,Emby
 # > 叔服
 DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
