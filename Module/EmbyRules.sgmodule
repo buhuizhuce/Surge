@@ -53,6 +53,7 @@ DOMAIN,jp.lilyemby.my,DIRECT    //大陆直连（日本）
 # > hka
 DOMAIN,epg.112114.xyz,Emby
 DOMAIN,hkb-emby.aliz.work,Emby
+DOMAIN,hkb-emby2.aliz.work,Emby
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
@@ -76,8 +77,6 @@ DOMAIN,ju.sfcj.org,Emby
 DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
-# > SaturDay.Lite
-DOMAIN,lite.saturday.video,Emby
 # > Nebula Media
 DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
@@ -97,6 +96,14 @@ DOMAIN,mediacf.doven.tv,Emby
 DOMAIN,4837.media.doven.tv,DIRECT
 DOMAIN,9929.media.doven.tv,DIRECT
 DOMAIN,awssg.media.doven.tv,DIRECT
+DOMAIN,cmin2.media.doven.tv,DIRECT
+DOMAIN,iij.media.doven.tv,DIRECT
+DOMAIN,sakura.media.doven.tv,DIRECT
+DOMAIN,whcn.media.mxtvf.cn,DIRECT
+DOMAIN,whcnoverawssg.media.mxtvf.cn,DIRECT
+DOMAIN,whcnover4837.media.mxtvf.cn,DIRECT
+DOMAIN,whcnoveriepl.media.mxtvf.cn,DIRECT
+DOMAIN,netcup.media.doven.tv,DIRECT
 # > MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
@@ -111,6 +118,7 @@ DOMAIN,s.outong-valve.com,Emby
 DOMAIN,onatoshi.114514.quest,Emby
 # > Plumber Emby
 DOMAIN,xjp1.nezhasu.com,Emby
+DOMAIN,shouer.910427.xyz,Emby    //首尔
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -120,13 +128,15 @@ IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
 DOMAIN,pornemby.club,Emby
 
-
 IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
 
 
 
+
 ### > 不可用
+# > SaturDay.Lite
+DOMAIN,lite.saturday.video,Emby
 # > 拼好服
 DOMAIN,19333991.xyz,Emby
 DOMAIN,emby.19333991.xyz,Emby
@@ -150,7 +160,7 @@ DOMAIN,embyplus.org,DIRECT
 DOMAIN,xmz2f-nkdd5-x4q9x.biliblili.uk,Emby        //主线路 US-v1
 DOMAIN,w9pns-3hd2e-7jdt3.biliblili.uk,Emby        //主线路 Ca-v2
 DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk,Emby        //香港
-DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
+DOMAIN，n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
 DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
@@ -174,7 +184,6 @@ DOMAIN,abc.auroramedia.vip,Emby
 #DOMAIN,Emby.agon.cf,Emby
 # > 威威
 #DOMAIN,gy.embyvip.org,DIRECT
-
 # > 江湖
 #DOMAIN,jh.happyav.eu.org,Emby
 #DOMAIN,film.reddust.link,Emby
