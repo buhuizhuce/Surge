@@ -29,9 +29,6 @@ IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
 DOMAIN,cc.embycc.link,{{{cc Policy}}}  
 DOMAIN-SUFFIX,carryz.net,{{{cc Policy}}}  
-# > StarCat
-DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
-DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby   //香港
 DOMAIN,inside.lyrebirdemby.com,Emby   //机场线路
@@ -42,29 +39,17 @@ DOMAIN,emby.9191001.xyz,Emby
 DOMAIN,emby.bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
-# > 野兽
-DOMAIN,xmz2f-nkdd5-x4q9x.biliblili.uk,Emby        //主线路 US-v1
-DOMAIN,w9pns-3hd2e-7jdt3.biliblili.uk,Emby        //主线路 Ca-v2
-DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk,Emby        //香港
-DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
-DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
-# > 纸片人
-DOMAIN,embyplus.org,DIRECT
 # > hxd
 DOMAIN,hxd.as174.de,Emby
 DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
-# > 天南小筑
-DOMAIN,us.nanflix.net,Emby
-DOMAIN-SUFFIX,nanflix.net,Emby
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 # > Lily
 DOMAIN,cf.lilyemby.my,Emby    //海外推荐
-DOMAIN,cfemby.lilyyaya.top,Emby    //海外备用
-DOMAIN,c.lilyemby.my,DIRECT    //大陆直连（香港 融合CN2）
-DOMAIN,u.lilyemby.my,DIRECT    //大陆CDN（美国甲骨文）
+DOMAIN,hk.lilyemby.my,DIRECT    //大陆直连（香港）
+DOMAIN,jp.lilyemby.my,DIRECT    //大陆直连（日本）
 # > hka
 DOMAIN,epg.112114.xyz,Emby
 DOMAIN,hkb-emby.aliz.work,Emby
@@ -97,10 +82,6 @@ DOMAIN,lite.saturday.video,Emby
 DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
-# > 墨云阁
-DOMAIN,2pfdml.mobaiemby.site,Emby
-DOMAIN,sfyzn2.mobaiemby.site,Emby
-DOMAIN,emby-myg-de.vfing.de,Emby
 # > jingzhe
 DOMAIN,emby.jingzhe.pro,Emby
 # > July
@@ -124,22 +105,12 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media1.micu.hk,DIRECT   //香港1
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
-# > 流星
-DOMAIN,emby1.liustar.click,DIRECT     //主线路
-DOMAIN,embyhw1.liustar.click,Emby     //海外线路一
-DOMAIN,embyhw2.liustar.click,Emby     //海外线路二
 # > 云上
 DOMAIN,s.outong-valve.com,Emby
 # > Douban
 DOMAIN,onatoshi.114514.quest,Emby
-# > 拼好服
-DOMAIN,19333991.xyz,Emby
-DOMAIN,emby.19333991.xyz,Emby
-DOMAIN,proxy.19333991.xyz,Emby
 # > Plumber Emby
 DOMAIN,xjp1.nezhasu.com,Emby
-# > 叔服
-DOMAIN,emby3.mcjoker.xyz,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -156,6 +127,34 @@ IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
 
 ### > 不可用
+# > 拼好服
+DOMAIN,19333991.xyz,Emby
+DOMAIN,emby.19333991.xyz,Emby
+DOMAIN,proxy.19333991.xyz,Emby
+# > 流星
+DOMAIN,emby1.liustar.click,DIRECT     //主线路
+DOMAIN,embyhw1.liustar.click,Emby     //海外线路一
+DOMAIN,embyhw2.liustar.click,Emby     //海外线路二
+# > 叔服
+DOMAIN,emby3.mcjoker.xyz,Emby
+# > 天南小筑
+DOMAIN,us.nanflix.net,Emby
+DOMAIN-SUFFIX,nanflix.net,Emby
+# > 墨云阁
+DOMAIN,2pfdml.mobaiemby.site,Emby
+DOMAIN,sfyzn2.mobaiemby.site,Emby
+DOMAIN,emby-myg-de.vfing.de,Emby
+# > 纸片人
+DOMAIN,embyplus.org,DIRECT
+# > 野兽
+DOMAIN,xmz2f-nkdd5-x4q9x.biliblili.uk,Emby        //主线路 US-v1
+DOMAIN,w9pns-3hd2e-7jdt3.biliblili.uk,Emby        //主线路 Ca-v2
+DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk,Emby        //香港
+DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
+DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
+# > StarCat
+DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
+DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
 # > AWA
 DOMAIN,emby.awatv.de,Emby  //禁infuse、vidhub、网页
 DOMAIN,01.awatv.de,Emby
