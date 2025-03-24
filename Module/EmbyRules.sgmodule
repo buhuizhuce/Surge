@@ -78,7 +78,7 @@ DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
 # > Nebula Media
-DOMAIN,emby.nebula-media.org,Emby,no-quic
+DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
 # > jingzhe
