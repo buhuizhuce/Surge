@@ -126,7 +126,7 @@ DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
-DOMAIN，nezha.ocdlive.com,Emby
+DOMAIN,nezha.ocdlive.com,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
