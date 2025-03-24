@@ -103,7 +103,7 @@ DOMAIN,whcn.media.mxtvf.cn,DIRECT
 DOMAIN,whcnoverawssg.media.mxtvf.cn,DIRECT
 DOMAIN,whcnover4837.media.mxtvf.cn,DIRECT
 DOMAIN,whcnoveriepl.media.mxtvf.cn,DIRECT
-DOMAIN,netcup.media.doven.tv,DIRECT
+DOMAIN，netcup.media.doven.tv,DIRECT
 # > MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
@@ -121,12 +121,12 @@ DOMAIN,xjp1.nezhasu.com,Emby
 DOMAIN,shouer.910427.xyz,Emby    //首尔
 # > 云海互联
 DOMAIN,emby.oceancloud.asia,Emby
-DOMAIN,nsfw.oceancloud.asia,Emby
+DOMAIN，nsfw.oceancloud.asia,Emby
 DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
-DOMAIN,nezha.ocdlive.com,Emby
+DOMAIN，nezha.ocdlive.com,Emby
 IP-CIDR,152.53.67.239/32,Emby,no-resolve
 IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
@@ -164,7 +164,7 @@ DOMAIN,embyplus.org,DIRECT
 DOMAIN,xmz2f-nkdd5-x4q9x.biliblili.uk,Emby        //主线路 US-v1
 DOMAIN,w9pns-3hd2e-7jdt3.biliblili.uk,Emby        //主线路 Ca-v2
 DOMAIN,9tp2a-4n2vj-5qdzw.biliblili.uk,Emby        //香港
-DOMAIN，n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
+DOMAIN,n4byr-4nahh-ffd3j.biliblili.uk,Emby        //香港
 DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
@@ -175,8 +175,8 @@ DOMAIN,01.awatv.de,Emby
 DOMAIN,movie.emby.blog,DIRECT
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
-DOMAIN,ok.alphatvapp.top:57526,Emby
-DOMAIN,ok2.alphatvapp.top:57526,Emby
+DOMAIN,ok.alphatvapp.top,Emby
+DOMAIN,ok2.alphatvapp.top,Emby
 IP-CIDR,107.181.238.190/32,Emby,no-resolve
 IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
