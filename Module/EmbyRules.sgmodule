@@ -121,7 +121,7 @@ DOMAIN,xjp1.nezhasu.com,Emby
 DOMAIN,shouer.910427.xyz,Emby    //首尔
 # > 云海互联
 DOMAIN,emby.oceancloud.asia,Emby
-DOMAIN，nsfw.oceancloud.asia,Emby
+DOMAIN,nsfw.oceancloud.asia,Emby
 DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
