@@ -123,6 +123,9 @@ DOMAIN,shouer.910427.xyz,Emby    //首尔
 DOMAIN,emby.oceancloud.asia,Emby
 DOMAIN,nsfw.oceancloud.asia,Emby
 DOMAIN-SUFFIX,oceancloud.pro,Emby
+# > Youno
+#DOMAIN,emby.younoyes.com,Emby
+DOMAIN-SUFFIX,younoyes.com,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
