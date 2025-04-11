@@ -127,6 +127,8 @@ DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > Youno
 #DOMAIN,emby.younoyes.com,Emby
 DOMAIN-SUFFIX,younoyes.com,Emby
+# > 起点站
+DOMAIN,free.28.al,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -184,8 +186,6 @@ DOMAIN,ok2.alphatvapp.top,Emby
 IP-CIDR,107.181.238.190/32,Emby,no-resolve
 IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
-# > 起点站
-DOMAIN,tdck.fun,Emby
 # > AuroraMedia
 DOMAIN,abc.auroramedia.vip,Emby
 # > 私人影院
