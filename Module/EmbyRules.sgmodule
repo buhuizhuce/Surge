@@ -37,6 +37,7 @@ IP-CIDR,188.172.228.65/32,Emby,no-resolve
 DOMAIN,emby.9191001.xyz,Emby
 # > NyaMedia
 DOMAIN,emby.bangumi.ca,Emby
+DOMAIN,ap-cn01.emby.bangumi.ca,DIRECT
 # > Misty
 DOMAIN,misty.cx,Emby
 # > hxd
