@@ -130,6 +130,8 @@ DOMAIN-SUFFIX,oceancloud.pro,Emby
 DOMAIN-SUFFIX,younoyes.com,Emby
 # > 起点站
 DOMAIN,free.28.al,Emby
+# > Onyra
+DOMAIN,bps8m.onyra.cc,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
