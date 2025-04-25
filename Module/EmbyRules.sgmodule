@@ -51,6 +51,7 @@ DOMAIN,jsq.mooguu.xyz,Emby
 DOMAIN,cf.lilyemby.my,Emby    //海外推荐
 DOMAIN,hk.lilyemby.my,DIRECT    //大陆直连（香港）
 DOMAIN,jp.lilyemby.my,DIRECT    //大陆直连（日本）
+DOMAIN,cdn.lilyemby.my,Emby    //大陆CDN
 # > hka
 DOMAIN,epg.112114.xyz,Emby
 DOMAIN,hkb-emby.aliz.work,Emby
@@ -62,9 +63,9 @@ DOMAIN,hka-emby.aliz.work,Emby
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
 # > 飞跃彩虹
-DOMAIN,581658.best,Emby
-DOMAIN,7777777.buzz,DIRECT
-DOMAIN,cdn.7777777.buzz,DIRECT
+#DOMAIN,581658.best,Emby
+#DOMAIN,7777777.buzz,DIRECT
+#DOMAIN,cdn.7777777.buzz,DIRECT
 IP-CIDR,193.122.114.13/32,Emby,no-resolve
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
@@ -73,9 +74,9 @@ DOMAIN,lum.clun.top,Emby
 DOMAIN,emby.clun.top,Emby
 # > 非越
 DOMAIN,z.sfcj.org,DIRECT
-DOMAIN,jg.sfcj.org,Emby
-DOMAIN,ju.sfcj.org,Emby
-DOMAIN,jg6.sfcj.org,Emby
+#DOMAIN,jg.sfcj.org,Emby
+#DOMAIN,ju.sfcj.org,Emby
+#DOMAIN,jg6.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
 DOMAIN,v6.sfcj.org,DIRECT
 # > Nebula Media
@@ -84,27 +85,8 @@ DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
 # > jingzhe
 DOMAIN,emby.jingzhe.pro,Emby
-# > July
-DOMAIN,alist7.eu.org,Emby
-DOMAIN,july.vfing.de,Emby
-DOMAIN,july-hk.vfing.de,Emby
-DOMAIN,july-sg.vfing.de,Emby
-DOMAIN,july-us.vfing.de,Emby
 # > wenjian
 DOMAIN,emby.wenjian.de,Emby
-# > 鸽巢Dove Nest
-DOMAIN,mediacf.doven.tv,Emby
-DOMAIN,4837.media.doven.tv,DIRECT
-DOMAIN,9929.media.doven.tv,DIRECT
-DOMAIN,awssg.media.doven.tv,DIRECT
-DOMAIN,cmin2.media.doven.tv,DIRECT
-DOMAIN,iij.media.doven.tv,DIRECT
-DOMAIN,sakura.media.doven.tv,DIRECT
-DOMAIN,whcn.media.mxtvf.cn,DIRECT
-DOMAIN,whcnoverawssg.media.mxtvf.cn,DIRECT
-DOMAIN,whcnover4837.media.mxtvf.cn,DIRECT
-DOMAIN,whcnoveriepl.media.mxtvf.cn,DIRECT
-DOMAIN,netcup.media.doven.tv,DIRECT
 # > MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
@@ -113,8 +95,6 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media1.micu.hk,DIRECT   //香港1
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
-# > 云上
-DOMAIN,s.outong-valve.com,Emby
 # > Douban
 DOMAIN,onatoshi.114514.quest,Emby
 # > Plumber Emby
@@ -126,12 +106,16 @@ DOMAIN,emby.oceancloud.asia,Emby
 DOMAIN,nsfw.oceancloud.asia,Emby
 DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > Youno
-#DOMAIN,emby.younoyes.com,Emby
-DOMAIN-SUFFIX,younoyes.com,Emby
+DOMAIN,emby.younoyes.com,Emby
+DOMAIN-SUFFIX,younoyes.com,DIRECT
 # > 起点站
 DOMAIN,free.28.al,Emby
 # > Onyra
 DOMAIN,bps8m.onyra.cc,Emby
+# > 云梯在线
+DOMAIN,emby.yunti.online,Emby
+# > Paolu
+DOMAIN,cftv.paoluma.de,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -212,7 +196,27 @@ DOMAIN,free.emby.eu.org,Emby    //DIRECT
 DOMAIN,789.123456.al,Emby
 # > apop
 DOMAIN,emby.apopcloud.live,Emby
-
+# > 鸽巢Dove Nest
+DOMAIN,mediacf.doven.tv,Emby
+DOMAIN,4837.media.doven.tv,DIRECT
+DOMAIN,9929.media.doven.tv,DIRECT
+DOMAIN,awssg.media.doven.tv,DIRECT
+DOMAIN,cmin2.media.doven.tv,DIRECT
+DOMAIN,iij.media.doven.tv,DIRECT
+DOMAIN,sakura.media.doven.tv,DIRECT
+DOMAIN,whcn.media.mxtvf.cn,DIRECT
+DOMAIN,whcnoverawssg.media.mxtvf.cn,DIRECT
+DOMAIN,whcnover4837.media.mxtvf.cn,DIRECT
+DOMAIN,whcnoveriepl.media.mxtvf.cn,DIRECT
+DOMAIN,netcup.media.doven.tv,DIRECT
+# > July
+DOMAIN,alist7.eu.org,Emby
+DOMAIN,july.vfing.de,Emby
+DOMAIN,july-hk.vfing.de,Emby
+DOMAIN,july-sg.vfing.de,Emby
+DOMAIN,july-us.vfing.de,Emby
+# > 云上
+DOMAIN,s.outong-valve.com,Emby
 
 
 
