@@ -112,14 +112,10 @@ DOMAIN-SUFFIX,younoyes.com,DIRECT
 DOMAIN,free.28.al,Emby
 # > Onyra
 DOMAIN,bps8m.onyra.cc,Emby
-# > 云梯在线
-DOMAIN,emby.yunti.online,Emby
-# > Paolu
-DOMAIN,cftv.paoluma.de,Emby
-# > DuskyEmby
-DOMAIN,eidix.store,Emby
-# > 入机
-DOMAIN,qlcf.rjemby.com,Emby
+# > 哪吒云
+DOMAIN,x1.nezhasu.com,Emby
+# > cherry
+DOMAIN,gongyi.daliziqielili.su,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -222,6 +218,14 @@ DOMAIN,july-sg.vfing.de,Emby
 DOMAIN,july-us.vfing.de,Emby
 # > 云上
 DOMAIN,s.outong-valve.com,Emby
+# > 云梯在线
+DOMAIN,emby.yunti.online,Emby
+# > Paolu
+DOMAIN,cftv.paoluma.de,Emby
+# > DuskyEmby
+DOMAIN,eidix.store,Emby
+# > 入机
+DOMAIN,qlcf.rjemby.com,Emby
 
 
 
