@@ -15,18 +15,18 @@ DOMAIN,pub3.emby.wtf,Emby
 DOMAIN,play.charontv.com,Emby
 DOMAIN,vip.charontv.com,Emby
 # > 卷毛鼠  
-DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}   //禁大陆&香港&日本&美国
+DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}   //禁香港&日本&美国
 DOMAIN,cf1.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,mini.jmsuper.com,{{{卷毛鼠Policy}}}
 # > Loser
-DOMAIN,cf.xmsl.org,{{{垃圾影音Policy}}}   //禁日本
+DOMAIN,cf.xmsl.org,{{{垃圾影音Policy}}}    //禁日本&大陆
 DOMAIN-SUFFIX,xmsl.org,{{{垃圾影音Policy}}}
 # > peach
 DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 # > cc
-DOMAIN,cc.coemn.com,{{{cc Policy}}}  //日本&DIRECT
+DOMAIN,cc.coemn.com,{{{cc Policy}}}    //日本&DIRECT
 DOMAIN,cc.embycc.link,{{{cc Policy}}}  
 DOMAIN-SUFFIX,carryz.net,{{{cc Policy}}}  
 # > lyrebird
@@ -41,7 +41,7 @@ DOMAIN,ap-cn01.emby.bangumi.ca,DIRECT
 # > Misty
 DOMAIN,misty.cx,Emby
 # > hxd
-DOMAIN,hxd.as174.de,Emby
+DOMAIN,hxd.as174.de,Emby    //禁日本
 DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
@@ -110,12 +110,10 @@ DOMAIN,emby.younoyes.com,Emby
 DOMAIN-SUFFIX,younoyes.com,DIRECT
 # > 起点站
 DOMAIN,free.28.al,Emby
-# > Onyra
-DOMAIN,bps8m.onyra.cc,Emby
+# > 云梯在线
+DOMAIN,emby.yunti.online,Emby
 # > 哪吒云
 DOMAIN,x1.nezhasu.com,Emby
-# > cherry
-DOMAIN,gongyi.daliziqielili.su,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -218,14 +216,15 @@ DOMAIN,july-sg.vfing.de,Emby
 DOMAIN,july-us.vfing.de,Emby
 # > 云上
 DOMAIN,s.outong-valve.com,Emby
-# > 云梯在线
-DOMAIN,emby.yunti.online,Emby
 # > Paolu
 DOMAIN,cftv.paoluma.de,Emby
 # > DuskyEmby
 DOMAIN,eidix.store,Emby
 # > 入机
 DOMAIN,qlcf.rjemby.com,Emby
-
+# > Onyra
+DOMAIN,bps8m.onyra.cc,Emby
+# > cherry
+DOMAIN,gongyi.daliziqielili.su,Emby
 
 
