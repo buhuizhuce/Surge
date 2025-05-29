@@ -126,7 +126,8 @@ IP-CIDR,94.16.119.117/32,Emby,no-resolve
 # > pornemby
 #DOMAIN,pornemby.club,Emby
 DOMAIN,pornemby.com,Emby
-
+# > StarEmby
+DOMAIN,emby2.staryuki.com,Emby
 IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
 
