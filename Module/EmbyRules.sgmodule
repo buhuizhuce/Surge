@@ -116,7 +116,9 @@ DOMAIN,free.28.al,Emby
 # > 云梯在线
 DOMAIN,emby.yunti.online,Emby
 # > 哪吒云
-DOMAIN,x1.nezhasu.com,Emby
+DOMAIN,embyx1.nezhasu.com,Emby
+DOMAIN,embyx2.nezhasu.com,Emby
+DOMAIN,embyx3.nezhasu.com,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
