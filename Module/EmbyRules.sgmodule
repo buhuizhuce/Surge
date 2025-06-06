@@ -57,14 +57,14 @@ DOMAIN,jp.lilyemby.my,DIRECT    //大陆直连（日本）
 DOMAIN,cdn.lilyemby.my,Emby    //大陆CDN
 # > hka
 DOMAIN,epg.112114.xyz,Emby
+DOMAIN-SUFFIX,aliz.work,Emby
 DOMAIN,hkb-emby.aliz.work,Emby
 DOMAIN,hkb-emby2.aliz.work,Emby
 DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 DOMAIN,hka-emby.aliz.work,Emby
-# > 飞跃银河
-DOMAIN,yhemby.top,Emby
+
 # > 飞跃彩虹
 #DOMAIN,581658.best,Emby
 #DOMAIN,7777777.buzz,DIRECT
@@ -75,13 +75,11 @@ DOMAIN,eggtartemby.itsmyduty.top,Emby
 DOMAIN,lumia.clun.top,Emby
 DOMAIN,lum.clun.top,Emby
 DOMAIN,emby.clun.top,Emby
+DOMAIN-SUFFIX,clun.top,Emby
 # > 非越
-DOMAIN,z.sfcj.org,DIRECT
-DOMAIN,jg.sfcj.org,Emby
-DOMAIN,ju.sfcj.org,Emby
-DOMAIN,jg6.sfcj.org,Emby
+DOMAIN,z.sfcj.org,Emby
 DOMAIN,cf.sfcj.org,Emby
-DOMAIN,v6.sfcj.org,DIRECT
+DOMAIN-SUFFIX,sfcj.org,Emby
 # > Nebula Media
 DOMAIN,emby.nebula-media.org,Emby
 DOMAIN,web.nebula-media.org,Emby
@@ -90,14 +88,6 @@ DOMAIN-SUFFIX,nebula-media.org,Emby
 DOMAIN,emby.jingzhe.pro,Emby
 # > wenjian
 DOMAIN,emby.wenjian.de,Emby
-# > MICU
-DOMAIN-SUFFIX,micu.hk,DIRECT
-DOMAIN,tv.micu.hk,DIRECT
-DOMAIN,tv1.micu.hk,DIRECT
-DOMAIN,media.micu.hk,DIRECT
-#DOMAIN,media1.micu.hk,DIRECT   //香港1
-#DOMAIN,media2.micu.hk,DIRECT   //美国
-#DOMAIN,media3.micu.hk,DIRECT   //香港2
 # > Douban
 DOMAIN,onatoshi.114514.quest,Emby
 # > Plumber Emby
@@ -107,18 +97,18 @@ DOMAIN,shouer.910427.xyz,Emby    //首尔
 # > 云海互联
 DOMAIN,emby.oceancloud.asia,Emby
 DOMAIN,nsfw.oceancloud.asia,Emby
+DOMAIN-SUFFIX,oceancloud.asia,Emby
 DOMAIN-SUFFIX,oceancloud.pro,Emby
 # > Youno
 DOMAIN,emby.younoyes.com,Emby
 DOMAIN-SUFFIX,younoyes.com,DIRECT
 # > 起点站
 DOMAIN,free.28.al,Emby
-# > 云梯在线
-DOMAIN,emby.yunti.online,Emby
 # > 哪吒云
 DOMAIN,embyx1.nezhasu.com,Emby
 DOMAIN,embyx2.nezhasu.com,Emby
 DOMAIN,embyx3.nezhasu.com,Emby
+DOMAIN-SUFFIX,nezhasu.com,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -234,5 +224,17 @@ DOMAIN,qlcf.rjemby.com,Emby
 DOMAIN,bps8m.onyra.cc,Emby
 # > cherry
 DOMAIN,gongyi.daliziqielili.su,Emby
+# > 飞跃银河
+DOMAIN,yhemby.top,Emby
+# > 云梯在线
+DOMAIN,emby.yunti.online,Emby
+# > MICU
+DOMAIN-SUFFIX,micu.hk,DIRECT
+DOMAIN,tv.micu.hk,DIRECT
+DOMAIN,tv1.micu.hk,DIRECT
+DOMAIN,media.micu.hk,DIRECT
+#DOMAIN,media1.micu.hk,DIRECT   //香港1
+#DOMAIN,media2.micu.hk,DIRECT   //美国
+#DOMAIN,media3.micu.hk,DIRECT   //香港2
 
 
