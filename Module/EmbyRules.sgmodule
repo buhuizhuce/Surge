@@ -220,6 +220,8 @@ DOMAIN,cftv.paoluma.de,Emby
 DOMAIN,eidix.store,Emby
 # > 入机
 DOMAIN,qlcf.rjemby.com,Emby
+DOMAIN,rjbot.rjf37.com,Emby
+DOMAIN-SUFFIX,rjf37.com,Emby
 # > Onyra
 DOMAIN,bps8m.onyra.cc,Emby
 # > cherry
