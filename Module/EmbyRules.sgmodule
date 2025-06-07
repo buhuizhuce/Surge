@@ -64,12 +64,10 @@ DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 DOMAIN,hka-emby.aliz.work,Emby
-
 # > 飞跃彩虹
-#DOMAIN,581658.best,Emby
-#DOMAIN,7777777.buzz,DIRECT
-#DOMAIN,cdn.7777777.buzz,DIRECT
-IP-CIDR,193.122.114.13/32,Emby,no-resolve
+DOMAIN,yhemby.top,Emby
+DOMAIN-SUFFIX,yhemby.top,Emby
+#IP-CIDR,193.122.114.13/32,Emby,no-resolve
 # > Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top,Emby
 DOMAIN,lumia.clun.top,Emby
