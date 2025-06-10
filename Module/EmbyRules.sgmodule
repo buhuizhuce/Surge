@@ -120,8 +120,13 @@ IP-CIDR,94.16.119.117/32,Emby,no-resolve
 DOMAIN,pornemby.com,Emby
 # > StarEmby
 DOMAIN,emby2.staryuki.com,Emby
+DOMAIN,edge.staryuki.com,Emby
+DOMAIN,edge.staryuki.me,Emby
+DOMAIN-SUFFIX,staryuki.com,Emby
+DOMAIN-SUFFIX,staryuki.me,Emby
 # > 无界云
 DOMAIN,emby.mjji.de,Emby
+DOMAIN-SUFFIX,mjji.de,Emby
 IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
 
