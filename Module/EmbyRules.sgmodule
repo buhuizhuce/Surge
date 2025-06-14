@@ -11,14 +11,17 @@ DOMAIN,workers.fileball.app,Proxy
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
+DOMAIN-SUFFIX,emby.wtf,Emby
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
 DOMAIN,vip.charontv.com,Emby
+DOMAIN-SUFFIX,charontv.com,Emby
 # > 卷毛鼠  
 DOMAIN,cf.jmsooo.com,{{{卷毛鼠Policy}}}   //禁香港&日本&美国
 DOMAIN,cf1.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,cf2.jmsuper.com,{{{卷毛鼠Policy}}}
 DOMAIN,mini.jmsuper.com,{{{卷毛鼠Policy}}}
+DOMAIN-SUFFIX,jmsuper.com,{{{卷毛鼠Policy}}}
 # > Loser
 DOMAIN,cf.xmsl.org,{{{垃圾影音Policy}}}    //禁日本&大陆
 DOMAIN-SUFFIX,xmsl.org,{{{垃圾影音Policy}}}
@@ -34,6 +37,7 @@ DOMAIN-SUFFIX,carryz.net,{{{cc Policy}}}
 # > lyrebird
 DOMAIN,cdn.lyrebirdemby.com,Emby   //香港
 DOMAIN,inside.lyrebirdemby.com,Emby   //机场线路
+DOMAIN-SUFFIX,lyrebirdemby.com,Emby
 IP-CIDR,188.172.228.65/32,Emby,no-resolve
 IP-CIDR,13.248.139.174/32,Emby,no-resolve
 # > 放映厅
@@ -56,6 +60,7 @@ DOMAIN,cf.lilyemby.my,Emby    //海外推荐
 DOMAIN,hk.lilyemby.my,DIRECT    //大陆直连（香港）
 DOMAIN,jp.lilyemby.my,DIRECT    //大陆直连（日本）
 DOMAIN,cdn.lilyemby.my,Emby    //大陆CDN
+DOMAIN-SUFFIX,lilyemby.my,Emby
 # > hka
 DOMAIN,epg.112114.xyz,Emby
 DOMAIN-SUFFIX,aliz.work,Emby
@@ -65,6 +70,7 @@ DOMAIN,hka-emby3.aliz.work,Emby
 DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 DOMAIN,hka-emby.aliz.work,Emby
+DOMAIN-SUFFIX,aliz.work,Emby
 # > 飞跃彩虹
 DOMAIN,yhemby.top,Emby
 DOMAIN-SUFFIX,yhemby.top,Emby
@@ -85,6 +91,7 @@ DOMAIN,web.nebula-media.org,Emby
 DOMAIN-SUFFIX,nebula-media.org,Emby
 # > jingzhe
 DOMAIN,emby.jingzhe.pro,Emby
+DOMAIN-SUFFIX,jingzhe.pro,Emby
 # > wenjian
 DOMAIN,emby.wenjian.de,Emby
 # > Douban
@@ -126,7 +133,6 @@ DOMAIN,edge.staryuki.me,Emby
 DOMAIN-SUFFIX,staryuki.com,Emby
 DOMAIN-SUFFIX,staryuki.me,Emby
 # > 无界云
-
 DOMAIN,playz.mjji.de,Emby
 DOMAIN-SUFFIX,mjji.de,Emby
 IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
