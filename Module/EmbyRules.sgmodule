@@ -126,7 +126,8 @@ DOMAIN,edge.staryuki.me,Emby
 DOMAIN-SUFFIX,staryuki.com,Emby
 DOMAIN-SUFFIX,staryuki.me,Emby
 # > 无界云
-DOMAIN,emby.mjji.de,Emby
+
+DOMAIN,playz.mjji.de,Emby
 DOMAIN-SUFFIX,mjji.de,Emby
 IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
