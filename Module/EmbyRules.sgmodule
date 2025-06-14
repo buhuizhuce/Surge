@@ -50,6 +50,7 @@ DOMAIN,emby.as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
+DOMAIN,jsq.vban.xyz,Emby
 # > Lily
 DOMAIN,cf.lilyemby.my,Emby    //海外推荐
 DOMAIN,hk.lilyemby.my,DIRECT    //大陆直连（香港）
