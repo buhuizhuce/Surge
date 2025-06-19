@@ -117,6 +117,8 @@ DOMAIN,embyx3.nezhasu.com,Emby
 DOMAIN-SUFFIX,nezhasu.com,Emby
 # > 影迹
 DOMAIN,emby1.123456789.lol,Emby
+# > 肥牛
+DOMAIN,emby.feiniu.lol,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
