@@ -5,8 +5,6 @@
 #!arguments-desc=Emby服策略组选择。
 
 [Rule]
-# > Fileball
-DOMAIN,workers.fileball.app,Proxy
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
@@ -119,6 +117,14 @@ DOMAIN-SUFFIX,nezhasu.com,Emby
 DOMAIN,emby1.123456789.lol,Emby
 # > 肥牛
 DOMAIN,emby.feiniu.lol,Emby
+DOMAIN-SUFFIX,feiniu.lol,Emby
+# > 土匪
+DOMAIN,tufei.de,Emby
+DOMAIN-SUFFIX,tufei.de,Emby
+# > 云云Emby
+DOMAIN,emby2.yunti.online,Emby
+DOMAIN-SUFFIX,yunti.online,Emby
+
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -143,7 +149,7 @@ IP-CIDR,50.114.155.150/32,Emby,no-resolve  //未知
 
 
 
-### > 不可用
+################ > 不可用
 # > SaturDay.Lite
 DOMAIN,lite.saturday.video,Emby
 # > 拼好服
@@ -243,8 +249,6 @@ DOMAIN,bps8m.onyra.cc,Emby
 DOMAIN,gongyi.daliziqielili.su,Emby
 # > 飞跃银河
 DOMAIN,yhemby.top,Emby
-# > 云梯在线
-DOMAIN,emby.yunti.online,Emby
 # > MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
