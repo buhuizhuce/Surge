@@ -121,9 +121,12 @@ DOMAIN-SUFFIX,feiniu.lol,Emby
 # > 土匪
 DOMAIN,tufei.de,Emby
 DOMAIN-SUFFIX,tufei.de,Emby
-# > 云云Emby
+# > 云云Emby/无界云
 DOMAIN,emby2.yunti.online,Emby
 DOMAIN-SUFFIX,yunti.online,Emby
+# > 云上
+DOMAIN,s.outong-valve.com,Emby
+
 
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
@@ -233,8 +236,6 @@ DOMAIN,july.vfing.de,Emby
 DOMAIN,july-hk.vfing.de,Emby
 DOMAIN,july-sg.vfing.de,Emby
 DOMAIN,july-us.vfing.de,Emby
-# > 云上
-DOMAIN,s.outong-valve.com,Emby
 # > Paolu
 DOMAIN,cftv.paoluma.de,Emby
 # > DuskyEmby
