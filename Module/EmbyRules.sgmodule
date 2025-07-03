@@ -126,8 +126,9 @@ DOMAIN,emby2.yunti.online,Emby
 DOMAIN-SUFFIX,yunti.online,Emby
 # > 云上
 DOMAIN,s.outong-valve.com,Emby
-
-
+# > ZOX
+DOMAIN,zoxfree.3767483.xyz,Emby
+DOMAIN-SUFFIX,3767483.xyz,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
