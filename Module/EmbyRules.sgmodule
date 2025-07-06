@@ -43,16 +43,20 @@ DOMAIN,emby.9191001.xyz,Emby
 # > NyaMedia
 DOMAIN,emby.bangumi.ca,Emby
 DOMAIN,ap-cn01.emby.bangumi.ca,DIRECT
+DOMAIN-SUFFIX,bangumi.ca,Emby
 # > Misty
 DOMAIN,misty.cx,Emby
 # > hxd
 DOMAIN,hxd.as174.de,Emby    //禁日本
 DOMAIN,cf.bili.rip,Emby
 DOMAIN,emby.as174.de,Emby
+DOMAIN-SUFFIX,as174.de,Emby
 IP-CIDR,91.103.123.28/32,Emby,no-resolve
 # > 见手青
 DOMAIN,jsq.mooguu.xyz,Emby
 DOMAIN,jsq.vban.xyz,Emby
+DOMAIN-SUFFIX,mooguu.xyz,Emby
+DOMAIN-SUFFIX,vban.xyz,Emby
 # > Lily
 DOMAIN,cf.lilyemby.my,Emby    //海外推荐
 DOMAIN,hk.lilyemby.my,DIRECT    //大陆直连（香港）
@@ -110,11 +114,6 @@ DOMAIN,emby.younoyes.com,Emby
 DOMAIN-SUFFIX,younoyes.com,DIRECT
 # > 起点站
 DOMAIN,free.28.al,Emby
-# > 哪吒云
-DOMAIN,embyx1.nezhasu.com,Emby
-DOMAIN,embyx2.nezhasu.com,Emby
-DOMAIN,embyx3.nezhasu.com,Emby
-DOMAIN-SUFFIX,nezhasu.com,Emby
 # > 影迹
 DOMAIN,emby1.123456789.lol,Emby
 # > 肥牛
@@ -187,10 +186,6 @@ DOMAIN,3vk5f-wutw6-4nsv2.biliblili.uk,Emby        //香港
 # > StarCat
 DOMAIN,flare.catlinks.co.uk,{{{StarCat Policy}}}
 DOMAIN-SUFFIX,catlinks.co.uk,{{{StarCat Policy}}}
-# > AWA
-DOMAIN,emby.awatv.de,Emby  //禁infuse、vidhub、网页
-DOMAIN,01.awatv.de,Emby
-DOMAIN,movie.emby.blog,DIRECT
 # > AlphaTV
 DOMAIN,oversea.alphatvapp.top,Emby
 DOMAIN,ok.alphatvapp.top,Emby
@@ -200,50 +195,12 @@ IP-CIDR,104.243.41.35/32,Emby,no-resolve
 IP-CIDR,154.40.33.88/32,Emby,no-resolve
 # > AuroraMedia
 DOMAIN,abc.auroramedia.vip,Emby
-# > 私人影院
-#DOMAIN,Emby.agon.cf,Emby
-# > 威威
-#DOMAIN,gy.embyvip.org,DIRECT
-# > 江湖
-#DOMAIN,jh.happyav.eu.org,Emby
-#DOMAIN,film.reddust.link,Emby
-#DOMAIN,jh.reddust.link,Emby
-# > Heisi
-DOMAIN,i109.com,DIRECT
-DOMAIN,h1.i109.com,Emby
-DOMAIN,h2.i109.com,Emby
-#DOMAIN,heisi.nekobox.best,Emby
 # > NMEmby
 DOMAIN,film.hovervan.org,DIRECT
-# > 星光
-DOMAIN,free.emby.eu.org,Emby    //DIRECT
-# > TreeDiagram
-DOMAIN,789.123456.al,Emby
 # > apop
 DOMAIN,emby.apopcloud.live,Emby
-# > 鸽巢Dove Nest
-DOMAIN,mediacf.doven.tv,Emby
-DOMAIN,4837.media.doven.tv,DIRECT
-DOMAIN,9929.media.doven.tv,DIRECT
-DOMAIN,awssg.media.doven.tv,DIRECT
-DOMAIN,cmin2.media.doven.tv,DIRECT
-DOMAIN,iij.media.doven.tv,DIRECT
-DOMAIN,sakura.media.doven.tv,DIRECT
-DOMAIN,whcn.media.mxtvf.cn,DIRECT
-DOMAIN,whcnoverawssg.media.mxtvf.cn,DIRECT
-DOMAIN,whcnover4837.media.mxtvf.cn,DIRECT
-DOMAIN,whcnoveriepl.media.mxtvf.cn,DIRECT
-DOMAIN,netcup.media.doven.tv,DIRECT
-# > July
-DOMAIN,alist7.eu.org,Emby
-DOMAIN,july.vfing.de,Emby
-DOMAIN,july-hk.vfing.de,Emby
-DOMAIN,july-sg.vfing.de,Emby
-DOMAIN,july-us.vfing.de,Emby
 # > Paolu
 DOMAIN,cftv.paoluma.de,Emby
-# > DuskyEmby
-DOMAIN,eidix.store,Emby
 # > 入机
 DOMAIN,qlcf.rjemby.com,Emby
 DOMAIN,rjbot.rjf37.com,Emby
@@ -262,5 +219,10 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media1.micu.hk,DIRECT   //香港1
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
+# > 哪吒云
+DOMAIN,embyx1.nezhasu.com,Emby
+DOMAIN,embyx2.nezhasu.com,Emby
+DOMAIN,embyx3.nezhasu.com,Emby
+DOMAIN-SUFFIX,nezhasu.com,Emby
 
 
