@@ -73,6 +73,9 @@ DOMAIN,hka-emby1.aliz.work,Emby
 DOMAIN,hka-emby2.aliz.work,Emby
 DOMAIN,hka-emby.aliz.work,Emby
 DOMAIN-SUFFIX,aliz.work,Emby
+# > 游骑兵
+DOMAIN,emby.heisi.org,Emby
+DOMAIN-SUFFIX,heisi.org,Emby
 # > 飞跃彩虹
 DOMAIN,yhemby.top,Emby
 DOMAIN,ch.feiyue.lol,Emby
@@ -209,8 +212,6 @@ DOMAIN-SUFFIX,rjf37.com,Emby
 DOMAIN,bps8m.onyra.cc,Emby
 # > cherry
 DOMAIN,gongyi.daliziqielili.su,Emby
-# > 飞跃银河
-DOMAIN,yhemby.top,Emby
 # > MICU
 DOMAIN-SUFFIX,micu.hk,DIRECT
 DOMAIN,tv.micu.hk,DIRECT
