@@ -140,6 +140,10 @@ DOMAIN-SUFFIX,zn.al,Emby
 # > 叶子
 DOMAIN,gm.yezi.my,Emby
 DOMAIN-SUFFIX,yezi.my,Emby
+# > 哪吒云
+DOMAIN,kfc.v50.su,Emby
+DOMAIN,susuyyds.com,Emby
+DOMAIN-SUFFIX,nezhasu.com,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
@@ -226,10 +230,6 @@ DOMAIN,media.micu.hk,DIRECT
 #DOMAIN,media1.micu.hk,DIRECT   //香港1
 #DOMAIN,media2.micu.hk,DIRECT   //美国
 #DOMAIN,media3.micu.hk,DIRECT   //香港2
-# > 哪吒云
-DOMAIN,embyx1.nezhasu.com,Emby
-DOMAIN,embyx2.nezhasu.com,Emby
-DOMAIN,embyx3.nezhasu.com,Emby
-DOMAIN-SUFFIX,nezhasu.com,Emby
+
 
 
