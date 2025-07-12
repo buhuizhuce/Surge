@@ -137,6 +137,9 @@ DOMAIN-SUFFIX,3767483.xyz,Emby
 # > ZN
 DOMAIN,emby.zn.al,Emby
 DOMAIN-SUFFIX,zn.al,Emby
+# > 叶子
+DOMAIN,gm.yezi.my,Emby
+DOMAIN-SUFFIX,yezi.my,Emby
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
 DOMAIN,epg.51zmt.top,Emby
