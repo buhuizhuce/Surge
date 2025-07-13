@@ -10,6 +10,10 @@ DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
 DOMAIN-SUFFIX,emby.wtf,Emby
+DOMAIN,pub1.term.wtf,Emby    //备用
+DOMAIN,pub2.term.wtf,Emby
+DOMAIN,pub3.term.wtf,Emby
+DOMAIN-SUFFIX,term.wtf,Emby
 # > 卡戎
 DOMAIN,play.charontv.com,Emby
 DOMAIN,vip.charontv.com,Emby
@@ -140,7 +144,7 @@ DOMAIN-SUFFIX,zn.al,Emby
 # > 叶子
 DOMAIN,gm.yezi.my,Emby
 DOMAIN-SUFFIX,yezi.my,Emby
-# > 哪吒云
+# > 哪吒云&KFC
 DOMAIN,kfc.v50.su,Emby
 DOMAIN,susuyyds.com,Emby
 DOMAIN-SUFFIX,nezhasu.com,Emby
