@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,xmsl.org,{{{垃圾影音Policy}}}
 DOMAIN-SUFFIX,emby.moe,{{{垃圾影音Policy}}}
 DOMAIN-SUFFIX,xxlb.net,{{{垃圾影音Policy}}}
 # > peach
-DOMAIN,embymv.link,{{{Peach Policy}}}  //香港&日本
+DOMAIN,embymv.link,{{{Peach Policy}}}    //香港&日本
 IP-CIDR,193.123.232.141/32,{{{Peach Policy}}},no-resolve
 # > cc
 DOMAIN,cc.coemn.com,{{{cc Policy}}}    //日本&DIRECT
@@ -139,6 +139,15 @@ DOMAIN-SUFFIX,yezi.my,Emby
 DOMAIN,kfc.v50.su,Emby
 DOMAIN,susuyyds.com,Emby
 DOMAIN-SUFFIX,nezhasu.com,Emby
+# > 入机
+DOMAIN,rjcf.rjf37.com,Emby     //全线路禁日本
+DOMAIN,rjcf.xytx.org,Emby
+DOMAIN,rjhl.xytx.org,DIRECT     //荷兰直连
+DOMAIN,rjhk.rjf37.com,DIRECT     //香港直连
+DOMAIN-SUFFIX,rjf37.com,Emby
+DOMAIN-SUFFIX,xytx.org,Emby
+DOMAIN-SUFFIX,010004.xyz,Emby
+
 ## > Porn服
 # > 探花TV
 DOMAIN-SUFFIX,tanhuatv.site,Emby
@@ -212,10 +221,6 @@ DOMAIN,film.hovervan.org,DIRECT
 DOMAIN,emby.apopcloud.live,Emby
 # > Paolu
 DOMAIN,cftv.paoluma.de,Emby
-# > 入机
-DOMAIN,qlcf.rjemby.com,Emby
-DOMAIN,rjbot.rjf37.com,Emby
-DOMAIN-SUFFIX,rjf37.com,Emby
 # > Onyra
 DOMAIN,bps8m.onyra.cc,Emby
 # > cherry
