@@ -5,6 +5,26 @@
 #!arguments-desc=Emby服策略组选择。
 
 [Rule]
+# Emby 元数据和字幕服务域名 (常用公共数据源)
+DOMAIN-SUFFIX,emby.media,Emby
+DOMAIN-SUFFIX,emby.com,Emby
+DOMAIN-SUFFIX,themoviedb.org,Emby
+DOMAIN-SUFFIX,thetvdb.com,Emby
+DOMAIN-SUFFIX,fanart.tv,Emby
+DOMAIN-SUFFIX,imdb.com,Emby
+DOMAIN-SUFFIX,tvmaze.com,Emby
+DOMAIN-SUFFIX,opensubtitles.org,Emby
+DOMAIN-SUFFIX,subscene.com,Emby
+DOMAIN-SUFFIX,allocine.fr,Emby
+#DOMAIN-SUFFIX,douban.com,Emby
+DOMAIN-SUFFIX,omdbapi.com,Emby
+DOMAIN-SUFFIX,jellyfin.org,Emby
+DOMAIN-SUFFIX,trakt.tv,Emby 
+DOMAIN-SUFFIX,anilist.co,Emby
+DOMAIN-SUFFIX,kitsunekko.net,Emby
+DOMAIN-SUFFIX,zimuku.cn,Emby
+DOMAIN-SUFFIX,musicbrainz.org,Emby
+DOMAIN-SUFFIX,audiodb.com,Emby
 # > 终点站
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
