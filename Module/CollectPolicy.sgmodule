@@ -1,0 +1,9 @@
+#!name=📥 Final域名抓取器
+#!desc=自动化收集并持久化存储命中指定策略组的所有域名。
+#!category=🏄🏻‍♂️ Frank
+#!arguments=目标策略:Final
+#!arguments-desc=目标策略：请填入你想要监控并收集的策略/策略组名称（例如 Final, DIRECT, Proxy 等，需严格区分大小写）。
+
+[Script]
+# 拦截所有外部 HTTP/HTTPS 请求的 Header，交给脚本判定策略
+策略收集器 = type=http-request,pattern=^http,requires-body=false,script-path=https://raw.githubusercontent.com/buhuizhuce/Surge/refs/heads/main/Script/collect_policy.js,argument={{{目标策略}}}
