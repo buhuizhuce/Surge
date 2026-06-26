@@ -1,33 +1,53 @@
 /**
- * Oclean Care 远程去广告脚本
+ * Oclean Care 远程去广告脚本 (终极完美版)
  */
+let url = $request.url;
 let body = $response.body;
+let obj = {};
 
 if (body) {
     try {
-        let obj = JSON.parse(body);
-        
-        // 1. 清空数据结构中的广告内容
-        if (obj.data) {
-            if (Array.isArray(obj.data)) {
-                obj.data = [];
-            } else if (typeof obj.data === 'object') {
-                obj.data.advertList = [];
-                obj.data.showTime = 0;
-                obj.data.status = 0;
-                if (obj.data.advert) obj.data.advert = null;
-            }
-        }
-        
-        // 2. 根目录兜底清除
-        obj.showTime = 0;
-        obj.advertList = [];
-        if (obj.code) obj.code = 200; // 保证状态码正常让App顺利往下走
-        
-        body = JSON.stringify(obj);
+        obj = JSON.parse(body);
     } catch (e) {
-        // 解析失败则不做处理
+        obj = {};
     }
 }
 
-$done({ body });
+// 1. 精准重构广告接口返回，不给 App 任何死角
+if (url.includes("SafetyGetStartAdvert")) {
+    obj = {
+        "code": 200,
+        "message": "success",
+        "data": {
+            "status": 0,
+            "showTime": 0,
+            "advertList": [],
+            "advert": null
+        },
+        "showTime": 0,
+        "advertList": []
+    };
+}
+
+// 2. 清洗全局资源接口
+if (url.includes("GetAllResources")) {
+    if (obj.data) {
+        const targetKeys = ["advert", "advertList", "splash", "popup", "showTime", "startButton"];
+        let cleanConfig = (item) => {
+            if (item && typeof item === 'object') {
+                for (let key in item) {
+                    if (targetKeys.some(k => key.toLowerCase().includes(k))) {
+                        if (typeof item[key] === 'number') item[key] = 0;
+                        else if (Array.isArray(item[key])) item[key] = [];
+                        else item[key] = null;
+                    } else {
+                        cleanConfig(item[key]);
+                    }
+                }
+            }
+        };
+        cleanConfig(obj.data);
+    }
+}
+
+$done({ body: JSON.stringify(obj) });
