@@ -9,7 +9,7 @@ DOMAIN,oclean-mall.oss-cn-beijing.aliyuncs.com,REJECT
 
 [Script]
 # 联合拦截广告接口和全部资源接口
-Oclean_Splash = type=http-response,pattern=^https:\/\/careapi\.oclean\.com\/Romap\/v1\/DeviceContoller\/(SafetyGetStartAdvert|GetAllResources)$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/你的用户名/你的仓库名/main/oclean_splash.js
+Oclean_Splash = type=http-response,pattern=^https:\/\/careapi\.oclean\.com\/Romap\/v1\/DeviceContoller\/(SafetyGetStartAdvert|GetAllResources)$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/buhuizhuce/Surge/refs/heads/main/JS/oclean_splash.js
 
 [MITM]
 hostname = %APPEND% careapi.oclean.com
