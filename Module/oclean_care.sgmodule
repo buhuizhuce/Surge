@@ -1,0 +1,11 @@
+#!name=Oclean Care 去开屏广告(远程脚本版)
+#!desc=通过远程脚本修改 Oclean Care 广告接口返回数据，实现秒进App。
+#!category=去广告
+#!system=ios
+
+[Script]
+# 拦截开屏广告
+Oclean_Splash = type=http-response,pattern=^https:\/\/careapi\.oclean\.com\/Romap\/v1\/DeviceContoller\/SafetyGetStartAdvert$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/buhuizhuce/Surge/refs/heads/main/JS/oclean_splash.js
+
+[MITM]
+hostname = %APPEND% careapi.oclean.com
