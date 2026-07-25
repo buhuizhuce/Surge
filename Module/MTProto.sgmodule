@@ -2,11 +2,11 @@
 #!desc=Telegram MTProto代理服务
 #!category=🏄🏻‍♂️ Frank
 #!arguments=密钥:none
-#!arguments-desc=Emby服策略组选择：\n终点站®禁香港&日本&美国&大陆。\n假日飞行家®禁香港&日本&美国&大陆。\nhxd®禁日本。
+#!arguments-desc=
 
 [MTProto]
 interface = 127.0.0.1
 port = 5753
-secret = 
+secret = {{{密钥}}}
 # 可选参数
 #ipv6 = true
