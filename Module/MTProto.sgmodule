@@ -1,0 +1,8 @@
+
+
+[MTProto]
+interface = 127.0.0.1
+port = 5753
+secret = dd59fa10d54a2f2f231d2a2c96ea264fdb
+# 可选参数
+#ipv6 = true
