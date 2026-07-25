@@ -1,7 +1,7 @@
 #!name=📡 MTProto
 #!desc=MTProto代理服务
 #!category=🏄🏻‍♂️ Frank
-#!arguments=服务器:127.0.0.1,端口:5753,密钥:none,ipv6:false
+#!arguments=服务器:127.0.0.1,端口:5753,密钥:none,ipv6:false,策略:Telegram
 #!arguments-desc=
 
 [MTProto]
@@ -10,3 +10,6 @@ port = {{{端口}}}
 secret = {{{密钥}}}
 # 可选参数
 ipv6 = {{{ipv6}}}
+
+[Rule]
+PROTOCOL,MTProto,{{{策略}}}
