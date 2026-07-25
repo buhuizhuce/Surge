@@ -1,12 +1,12 @@
 #!name=📡 MTProto
-#!desc=Telegram MTProto代理服务
+#!desc=MTProto代理服务
 #!category=🏄🏻‍♂️ Frank
-#!arguments=密钥:none
+#!arguments=服务器:127.0.0.1,端口:5753,密钥:none,ipv6:false
 #!arguments-desc=
 
 [MTProto]
-interface = 127.0.0.1
-port = 5753
+interface = {{{服务器}}}
+port = {{{端口}}}
 secret = {{{密钥}}}
 # 可选参数
-#ipv6 = true
+ipv6 = {{{ipv6}}}
