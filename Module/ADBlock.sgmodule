@@ -1,0 +1,10 @@
+#!name=🚫 去广告
+#!desc=个人自用去广告模块
+#!category=🏄🏻‍♂️ Frank
+
+[URL Rewrite]
+^https:\/\/hweb-manager\.huazhu\.com\/start\/getAppStartPage url reject-dict     //去除华住会开屏广告
+^https:\/\/hweb-manager\.huazhu\.com\/notice\/getAppPopupNotifyAlert url reject-dict     //去除华住会首页弹窗
+
+[MITM]
+hostname = %APPEND% hweb-manager.huazhu.com
