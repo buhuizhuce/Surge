@@ -10,6 +10,7 @@ port = {{{端口}}}
 secret = {{{密钥}}}
 # 可选参数
 ipv6 = {{{ipv6}}}
+dc-config-url = https://ruleset.skk.moe/Internal/mtproto-dc-config.json
 
 [Rule]
 PROTOCOL,MTProto,{{{策略}}}
