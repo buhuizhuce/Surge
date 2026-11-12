@@ -1,25 +1,22 @@
-#!name=Oclean 欧可林去广告与隐私防追踪
-#!desc=深度去除 Oclean (欧可林) App 启动开屏广告、弹窗推广及第三方数据追踪 SDK (友盟/Bugly/Mob)。安装后请强退并重启 App 以清除本地图片缓存。
+#!name=Oclean 欧可林去广告与隐私防追踪 (脚本增强版)
+#!desc=通过 JS 脚本深度清洗 Oclean App 启动时的开屏广告与弹窗数据。
 #!author=Minis
 #!system=ios
 
 [Rule]
-# > Oclean 核心广告/推广/资源域名 (加 no-resolve 加速阻断)
+# > 确保 Oclean 核心域名走代理/MitM解密，不被 DIRECT 旁路
+DOMAIN, careapi.oclean.com, PROXY
 DOMAIN-SUFFIX, zztfly.com, REJECT, no-resolve
-DOMAIN-SUFFIX, oclean.com, DIRECT
 
-# > 第三方数据收集与追踪 SDK
+# > 第三方追踪/统计 SDK 拦截
 DOMAIN-SUFFIX, umeng.com, REJECT, no-resolve
 DOMAIN-SUFFIX, umengcloud.com, REJECT, no-resolve
 DOMAIN-SUFFIX, mob.com, REJECT, no-resolve
 DOMAIN, ios.bugly.qq.com, REJECT, no-resolve
 
-[URL Rewrite]
-# > 阻断 zztfly.com 旗下所有广告 API (如 /suba/list 等)
-^https?:\/\/(.*)\.zztfly\.com\/ _reject_200
-
-# > Oclean 主 API 中的开屏广告/推广/弹窗拦截
-^https?:\/\/careapi\.oclean\.com\/.*(ad|advert|splash|popup|banner|launch|notice|recommend)\b _reject_200
+[Script]
+# > 拦截 Oclean 初始化及用户数据接口，清空开屏/弹窗广告字段
+Oclean_Ad_Clean = type=http-response,pattern=^https?:\/\/careapi\.oclean\.com\/.*,script-path=https://raw.githubusercontent.com/minis/workspace/oclean_clean.js,requires-body=true,max-size=524288
 
 [MITM]
 hostname = %APPEND% careapi.oclean.com, *.zztfly.com
