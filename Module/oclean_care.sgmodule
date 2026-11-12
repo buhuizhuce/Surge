@@ -1,15 +1,21 @@
-#!name=Oclean Care 去开屏广告(远程脚本增强版)
-#!desc=多接口联合净化 Oclean Care 开屏广告，彻底解决倒计时与白屏问题。
-#!category=去广告
+#!name=Oclean 欧可林去广告与隐私防追踪
+#!desc=去除 Oclean (欧可林) App 启动开屏广告、弹窗推广及第三方数据追踪 SDK (友盟/Bugly/Mob)。
+#!author=Minis
 #!system=ios
 
 [Rule]
-# 直接拒绝阿里云 OSS 静态广告域名
-DOMAIN,oclean-mall.oss-cn-beijing.aliyuncs.com,REJECT
+# > Oclean 广告/开屏/推广配置与资源域名
+DOMAIN-SUFFIX, zztfly.com, REJECT
 
-[Script]
-# 联合拦截广告接口和全部资源接口
-Oclean_Splash = type=http-response,pattern=^https:\/\/careapi\.oclean\.com\/Romap\/v1\/DeviceContoller\/(SafetyGetStartAdvert|GetAllResources)$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/buhuizhuce/Surge/refs/heads/main/JS/oclean_splash.js
+# > 第三方追踪/统计/SDK
+DOMAIN-SUFFIX, umeng.com, REJECT
+DOMAIN-SUFFIX, umengcloud.com, REJECT
+DOMAIN-SUFFIX, mob.com, REJECT
+DOMAIN, ios.bugly.qq.com, REJECT
+
+[URL Rewrite]
+# > Oclean 主 API 中的开屏广告/推广拦截 (返回 200 空数据)
+^https?:\/\/careapi\.oclean\.com\/(api\/)?(ad|advert|splash|popup|banner|launch)\b _reject_200
 
 [MITM]
 hostname = %APPEND% careapi.oclean.com
