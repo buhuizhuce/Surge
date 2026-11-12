@@ -9,7 +9,7 @@ DOMAIN,careapi.oclean.com,PROXY
 DOMAIN-SUFFIX,zztfly.com,REJECT,no-resolve
 
 # > 第三方追踪/统计 SDK 拦截
-DOMAIN-SUFFIX,umeng.com,REJECT,no-resolve
+DOMAIN-SUFFIX,umeng.com,Reject,no-resolve
 DOMAIN-SUFFIX,umengcloud.com,REJECT,no-resolve
 DOMAIN-SUFFIX,mob.com,REJECT,no-resolve
 DOMAIN,ios.bugly.qq.com,REJECT,no-resolve
