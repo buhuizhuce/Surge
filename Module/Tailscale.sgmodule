@@ -1,21 +1,21 @@
-#!name=🕳️ MyHome远程控制
+#!name=🕳️ Tailscale远程控制
 #!desc=开启后通过 Tailscale 隧道直连家里 HA 与内网网段；关闭后不再触发隧道，60 秒自动休眠，HA 域名恢复走公网 Funnel。
 #!category=🏄🏻‍♂️ Frank
-#!arguments=策略:Proxy,子网路由:DIRECT
-#!arguments-desc=策略：Tailscale 控制面域名策略。\n子网路由：默认 DIRECT（关闭）；填 MyHome 即开启远程访问家里 192.168.5.x 内网设备。
+#!arguments=策略:Proxy,子网路由:MyHome
+#!arguments-desc=策略：Tailscale 控制面域名策略。\n子网路由：MyHome 开启远程访问家里 192.168.5.x 内网设备；改回 DIRECT 关闭。
 
 
 [Rule]
 # 1. Tailscale 内网虚拟网段走隧道
 IP-CIDR,100.64.0.0/10,MyHome,no-resolve
 
-# 2.  开启模块时，HA 的 ts.net 域名优先改走隧道直连（绕过慢速 Funnel 中转）
+# 2. 开启模块时，HA 的 ts.net 域名优先改走隧道直连（绕过慢速 Funnel 中转）
 DOMAIN,homeassistant.taild23f14.ts.net,MyHome
 DOMAIN-SUFFIX,taild23f14.ts.net,MyHome
 
-# 3.  家里内网子网路由（在“编辑参数”中将“子网路由”改为 MyHome 启用，改回 DIRECT 关闭）
-# IP-CIDR,192.168.5.0/24,{{{子网路由}}},no-resolve
+# 3. 家里内网子网路由
+IP-CIDR,192.168.5.0/24,{{{子网路由}}},no-resolve
 
-# 4. Tailscale域名策略
+# 4. Tailscale 域名策略
 DOMAIN-SUFFIX,tailscale.com,{{{策略}}}
 DOMAIN-SUFFIX,tailscale.io,{{{策略}}}
