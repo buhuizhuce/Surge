@@ -10,8 +10,8 @@
 IP-CIDR,100.64.0.0/10,MyHome,no-resolve
 
 # 2. 开启模块时，HA 的 ts.net 域名优先改走隧道直连（绕过慢速 Funnel 中转）
-DOMAIN,homeassistant.taild23f14.ts.net,MyHome
-DOMAIN-SUFFIX,taild23f14.ts.net,MyHome
+DOMAIN,homeassistant.taild23f14.ts.net,{{{策略}}}
+DOMAIN-SUFFIX,taild23f14.ts.net,{{{策略}}}
 
 # 3. 家里内网子网路由
 IP-CIDR,192.168.5.0/24,{{{子网路由}}},no-resolve
